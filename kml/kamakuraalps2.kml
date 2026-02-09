@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>ルート</name>
+  <description><![CDATA[]]></description>
+  <Style id="style3">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/s.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/e.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>L</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        139.544388,35.338127,0.000000
+        139.547516,35.335258,0.000000
+        139.548157,35.334522,0.000000
+        139.549789,35.335571,0.000000
+        139.550690,35.335609,0.000000
+        139.551300,35.336376,0.000000
+        139.552322,35.336658,0.000000
+        139.553482,35.337151,0.000000
+        139.554337,35.336376,0.000000
+        139.555893,35.335712,0.000000
+        139.558197,35.335190,0.000000
+        139.561630,35.335190,0.000000
+        139.564850,35.335400,0.000000
+        139.567047,35.335995,0.000000
+        139.570084,35.336483,0.000000
+        139.571930,35.337078,0.000000
+        139.573395,35.337498,0.000000
+        139.575241,35.336975,0.000000
+        139.576417,35.335861,0.000000
+        139.577209,35.333961,0.000000
+        139.577133,35.332527,0.000000
+        139.576050,35.330776,0.000000
+        139.575714,35.328606,0.000000
+        139.574677,35.327103,0.000000
+        139.573959,35.326786,0.000000
+        139.572372,35.326855,0.000000
+        139.571335,35.327347,0.000000
+        139.569839,35.327137,0.000000
+        139.568970,35.327103,0.000000
+        139.567688,35.326118,0.000000
+        139.566437,35.325314,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>S</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>139.544388,35.338127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>E</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>139.566437,35.325314,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

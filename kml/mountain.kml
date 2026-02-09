@@ -1,0 +1,2563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <Style id="mountainIcon">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/banner.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+<Placemark><name>富士山</name><description>
+<![CDATA[
+2001.09.06<br />
+<a href="fujisan.html">2025.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.727369,35.360636,0</coordinates></Point></Placemark>
+<Placemark><name>利尻山</name><description>
+<![CDATA[
+]]>
+2003.09.10<br />
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>141.241381,45.180422,0</coordinates></Point></Placemark>
+<Placemark><name>塔ノ岳</name><description>
+<![CDATA[
+<a href="tounodake.html">2006.11.18</a><br />
+<a href="tanzawashumyaku_1.html">2007.11.24</a><br />
+<a href="tounodake2.html">2008.11.15</a><br />
+<a href="tounodake3.html">2009.01.21</a><br />
+<a href="tanzawashuryou.html">2009.06.20</a><br />
+<a href="tounodake4.html">2009.12.19</a><br />
+<a href="genjirousawa.html">2010.06.05</a><br />
+<a href="tounodake5.html">2020.08.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.163278,35.454028,0</coordinates></Point></Placemark>
+<Placemark><name>杓子山</name><description>
+<![CDATA[
+<a href="shakushiyama.html">2006.11.25</a><br />
+<a href="shakushiyama2.html">2009.12.27</a><br />
+<a href="shakushiyama3.html">2024.11.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.866139,35.485167,0</coordinates></Point></Placemark>
+<Placemark><name>秩父御岳山</name><description>
+<![CDATA[
+<a href="chichibuontakesan.html">2006.12.02</a><br />
+<a href="chichibuontakesan2.html">2019.12.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.942611,35.966556,0</coordinates></Point></Placemark>
+<Placemark><name>足和田山</name><description>
+<![CDATA[
+<a href="ashiwadayama.html">2006.12.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.707556,35.494111,0</coordinates></Point></Placemark>
+<Placemark><name>伊豆ヶ岳</name><description>
+<![CDATA[
+<a href="izugatake.html">2006.12.16</a><br />
+<a href="izugatake2.html">2017.10.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.160611,35.926861,0</coordinates></Point></Placemark>
+<Placemark><name>浅間嶺</name><description>
+<![CDATA[
+<a href="sengenrei.html">2006.12.23</a><br />
+<a href="sengenrei2.html">2022.11.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.102250,35.720028,0</coordinates></Point></Placemark>
+<Placemark><name>棒ノ折山</name><description>
+<![CDATA[
+<a href="bounooreyama.html">2006.12.29</a><br />
+<a href="bounooreyama2.html">2010.11.13</a><br />
+<a href="bounooreyama3.html">2018.04.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.155083,35.858667,0</coordinates></Point></Placemark>
+<Placemark><name>龍王山</name><description>
+<![CDATA[
+<a href="ryuuouzan.html">2007.01.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.874361,34.561972,0</coordinates></Point></Placemark>
+<Placemark><name>比叡山</name><description>
+<![CDATA[
+<a href="hieizan.html">2007.01.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.834417,35.065806,0</coordinates></Point></Placemark>
+<Placemark><name>高川山</name><description>
+<![CDATA[
+<a href="takagawayama.html">2007.01.14</a><br />
+<a href="takagawayama2.html">2008.11.09</a><br />
+<a href="takagawayama3.html">2022.05.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.901889,35.586056,0</coordinates></Point></Placemark>
+<Placemark><name>官ノ倉山</name><description>
+<![CDATA[
+<a href="kannokurayama.html">2007.01.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.223167,36.059861,0</coordinates></Point></Placemark>
+<Placemark><name>生藤山</name><description>
+<![CDATA[
+<a href="shoutousan.html">2007.01.27</a><br />
+<a href="shoutousan2.html">2007.11.03</a><br />
+<a href="shoutousan3.html">2009.07.05</a><br />
+<a href="shoutousan4.html">2015.06.06</a><br />
+<a href="jinbasan5.html">2026.01.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.132361,35.672389,0</coordinates></Point></Placemark>
+<Placemark><name>倉岳山</name><description>
+<![CDATA[
+<a href="kuratakeyama.html">2007.02.04</a><br />
+<a href="kuratakeyama2.html">2010.04.25</a><br />
+<a href="kuratakeyama3.html">2020.02.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.019806,35.584000,0</coordinates></Point></Placemark>
+<Placemark><name>甲州高尾山</name><description>
+<![CDATA[
+<a href="koushuutakaosan.html">2007.02.10</a><br />
+<a href="koushuutakaosan2.html">2017.09.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.761917,35.669333,0</coordinates></Point></Placemark>
+<Placemark><name>荒船山</name><description>
+<![CDATA[
+<a href="arafuneyama.html">2007.02.11</a><br />
+<a href="arafuneyama2_1.html">2011.10.09</a><br />
+<a href="arafuneyama3.html">2023.03.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.637083,36.204000,0</coordinates></Point></Placemark>
+<Placemark><name>伊予ヶ岳</name><description>
+<![CDATA[
+<a href="iyogatake.html">2007.02.17</a><br />
+<a href="gotenyama.html">2012.02.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.913944,35.107306,0</coordinates></Point></Placemark>
+<Placemark><name>富山</name><description>
+<![CDATA[
+<a href="iyogatake.html">2007.02.17</a><br />
+<a href="tomisan.html">2018.02.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.881500,35.098833,0</coordinates></Point></Placemark>
+<Placemark><name>毛無山</name><description>
+<![CDATA[
+<a href="kenashiyama.html">2007.02.24</a><br />
+<a href="kenashiyama2.html">2020.11.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.538228,35.413999,0</coordinates></Point></Placemark>
+<Placemark><name>弘法山</name><description>
+<![CDATA[
+<a href="koubouyama.html">2007.02.25</a><br />
+<a href="koubouyama2.html">2008.04.06</a><br />
+<a href="koubouyama3.html">2009.01.04</a><br />
+<a href="koubouyama4.html">2009.03.29</a><br />
+<a href="koubouyama5.html">2010.04.03</a><br />
+<a href="koubouyama6.html">2012.04.01</a><br />
+<a href="koubouyama7.html">2015.04.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.250194,35.375028,0</coordinates></Point></Placemark>
+<Placemark><name>三頭山</name><description>
+<![CDATA[
+<a href="mitousan.html">2007.03.03</a><br />
+<a href="okutamasanzan_1.html">2008.11.22</a><br />
+<a href="mitousan2.html">2013.11.22</a><br />
+<a href="mitousan3.html">2015.10.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.013722,35.738944,0</coordinates></Point></Placemark>
+<Placemark><name>大山三峰山</name><description>
+<![CDATA[
+<a href="ooyamamitsuminesan.html">2007.03.10</a><br />
+<a href="ooyamamitsuminesan2.html">2020.11.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.244722,35.464667,0</coordinates></Point></Placemark>
+<Placemark><name>三ツ峠山</name><description>
+<![CDATA[
+<a href="mitsutougeyama.html">2007.03.18</a><br />
+<a href="mitsutougeyama2.html">2009.06.14</a><br />
+<a href="mitsutougeyama3.html">2012.05.13</a><br />
+<a href="mitsutougeyama4.html">2021.05.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.809167,35.549250,0</coordinates></Point></Placemark>
+<Placemark><name>武甲山</name><description>
+<![CDATA[
+<a href="bukousan.html">2007.03.21</a><br />
+<a href="bukousan2.html">2011.12.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.097778,35.951667,0</coordinates></Point></Placemark>
+<Placemark><name>日向山</name><description>
+<![CDATA[
+<a href="hinatayama.html">2007.03.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.132944,35.989306,0</coordinates></Point></Placemark>
+<Placemark><name>岩茸石山</name><description>
+<![CDATA[
+<a href="takamizusanzan.html">2007.04.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.178806,35.830639,0</coordinates></Point></Placemark>
+<Placemark><name>檜洞丸</name><description>
+<![CDATA[
+<a href="hinokiboramaru.html">2007.04.07</a><br />
+<a href="tanzawashuryou.html">2009.06.20</a><br />
+<a href="hinokiboramaru2.html">2021.12.05</a><br />
+<a href="hinokiboramaru3.html">2025.11.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.102694,35.478944,0</coordinates></Point></Placemark>
+<Placemark><name>明神ヶ岳</name><description>
+<![CDATA[
+<a href="myoujingatake.html">2007.04.08</a><br />
+<a href="myoujingatake2.html">2008.12.07</a><br />
+<a href="myoujingatake3.html">2017.11.12</a><br />
+<a href="myoujingatake4.html">2021.02.23</a><br />
+<a href="kintokiyama4.html">2025.07.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.052444,35.279444,0</coordinates></Point></Placemark>
+<Placemark><name>黒斑山</name><description>
+<![CDATA[
+<a href="kurofuyama.html">2007.04.14</a><br />
+<a href="kurofuyama2.html">2020.08.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.488528,36.405222,0</coordinates></Point></Placemark>
+<Placemark><name>大山</name><description>
+<![CDATA[
+<a href="ooyama.html">2007.04.22</a><br />
+<a href="ooyama2.html">2010.05.08</a><br />
+<a href="ooyama3.html">2011.12.04</a><br />
+<a href="ooyama5.html">2013.10.27</a><br />
+<a href="ooyama6.html">2017.05.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.231139,35.440833,0</coordinates></Point></Placemark>
+<Placemark><name>丁須ノ頭</name><description>
+<![CDATA[
+<a href="uramyougi.html">2007.04.28</a><br />
+<a href="uramyougi2.html">2008.04.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.724111,36.317472,0</coordinates></Point></Placemark>
+<Placemark><name>大菩薩嶺</name><description>
+<![CDATA[
+<a href="daibosatsurei.html">2007.05.12</a><br />
+<a href="daibosatsurenrei_1.html">2009.05.09</a><br />
+<a href="daibosatsurei2.html">2015.07.26</a><br />
+<a href="daibosatsurei3.html">2025.10.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.845472,35.748750,0</coordinates></Point></Placemark>
+<Placemark><name>乾徳山</name><description>
+<![CDATA[
+<a href="kentokusan.html">2007.05.19</a><br />
+<a href="kentokusan2.html">2009.11.21</a><br />
+<a href="kentokusan3.html">2022.06.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.714833,35.822750,0</coordinates></Point></Placemark>
+<Placemark><name>愛鷹山</name><description>
+<![CDATA[
+<a href="ashitakayama.html">2007.05.26</a><br />
+<a href="ashitakarenpou.html">2010.10.27</a><br />
+<a href="ashitakayama2.html">2016.04.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.793972,35.238056,0</coordinates></Point></Placemark>
+<Placemark><name>雲取山</name><description>
+<![CDATA[
+<a href="kumotoriyama_1.html">2007.06.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.943889,35.855500,0</coordinates></Point></Placemark>
+<Placemark><name>那須岳</name><description>
+<![CDATA[
+<a href="nasudake_1.html">2007.06.16</a><br />
+<a href="nasucamping_1.html">2013.09.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.963111,37.124861,0</coordinates></Point></Placemark>
+<Placemark><name>三本槍岳</name><description>
+<![CDATA[
+<a href="nasudake_1.html">2007.06.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.961361,37.150139,0</coordinates></Point></Placemark>
+<Placemark><name>川苔山</name><description>
+<![CDATA[
+<a href="kawanoriyama.html">2007.06.24</a><br />
+<a href="kawanoriyama2.html">2020.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.106861,35.850778,0</coordinates></Point></Placemark>
+<Placemark><name>鶴ヶ鳥屋山</name><description>
+<![CDATA[
+<a href="tsurugatoyasan.html">2007.07.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.841250,35.582056,0</coordinates></Point></Placemark>
+<Placemark><name>九鬼山</name><description>
+<![CDATA[
+<a href="kukiyama.html">2007.07.23</a><br />
+<a href="kukiyama2.html">2011.12.11</a><br />
+<a href="kukiyama3.html">2024.10.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.951056,35.576611,0</coordinates></Point></Placemark>
+<Placemark><name>両神山</name><description>
+<![CDATA[
+<a href="ryoukamisan.html">2007.07.28</a><br />
+<a href="ryoukamisan2.html">2008.10.18</a><br />
+<a href="akaiwaone.html">2010.05.15</a><br />
+<a href="ryoukamisan3.html">2022.08.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.841306,36.023389,0</coordinates></Point></Placemark>
+<Placemark><name>槍ヶ岳</name><description>
+<![CDATA[
+<a href="yarigatake_1.html">2007.08.03</a><br />
+<a href="hotakayarijuusou_1.html">2009.08.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.647611,36.341972,0</coordinates></Point></Placemark>
+<Placemark><name>唐松岳</name><description>
+<![CDATA[
+<a href="kaerazukiretto_1.html">2007.08.11</a><br />
+<a href="kitashinshuuryokou_1.html">2012.08.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.754667,36.687194,0</coordinates></Point></Placemark>
+<Placemark><name>白馬鑓ヶ岳</name><description>
+<![CDATA[
+<a href="kaerazukiretto_1.html">2007.08.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.755333,36.731361,0</coordinates></Point></Placemark>
+<Placemark><name>白馬岳</name><description>
+<![CDATA[
+<a href="kaerazukiretto_1.html">2007.08.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.758528,36.758500,0</coordinates></Point></Placemark>
+<Placemark><name>天城山</name><description>
+<![CDATA[
+<a href="amagisan.html">2007.09.01</a><br />
+<a href="amagisan2.html">2023.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.001778,34.862833,0</coordinates></Point></Placemark>
+<Placemark><name>小野子山</name><description>
+<![CDATA[
+<a href="onokoyama.html">2007.09.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.937000,36.580778,0</coordinates></Point></Placemark>
+<Placemark><name>北岳</name><description>
+<![CDATA[
+<a href="shiranesanzan_1.html">2007.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.238778,35.674306,0</coordinates></Point></Placemark>
+<Placemark><name>間ノ岳</name><description>
+<![CDATA[
+<a href="shiranesanzan_1.html">2007.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.228306,35.646000,0</coordinates></Point></Placemark>
+<Placemark><name>農鳥岳</name><description>
+<![CDATA[
+<a href="shiranesanzan_1.html">2007.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.236833,35.621139,0</coordinates></Point></Placemark>
+<Placemark><name>朝日岳</name><description>
+<![CDATA[
+<a href="asahidake.html">2007.09.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.972583,36.880639,0</coordinates></Point></Placemark>
+<Placemark><name>立山</name><description>
+<![CDATA[
+<a href="tateyama_1.html">2007.10.07</a><br />
+<a href="tateyamarenpou_1.html">2025.08.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.619750,36.575944,0</coordinates></Point></Placemark>
+<Placemark><name>二子山</name><description>
+<![CDATA[
+<a href="futagoyama.html">2007.10.13</a><br />
+<a href="futagoyama2.html">2008.06.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.863694,36.069639,0</coordinates></Point></Placemark>
+<Placemark><name>至仏山</name><description>
+<![CDATA[
+<a href="shibutsusan.html">2007.10.21</a><br />
+<a href="shibutsusan2_1.html">2024.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.173222,36.903472,0</coordinates></Point></Placemark>
+<Placemark><name>北横岳</name><description>
+<![CDATA[
+<a href="tateshinayama_1.html">2007.10.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.320028,36.087444,0</coordinates></Point></Placemark>
+<Placemark><name>蓼科山</name><description>
+<![CDATA[
+<a href="tateshinayama_1.html">2007.10.29</a><br />
+<a href="tateshinayama2_1.html">2013.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.295028,36.103722,0</coordinates></Point></Placemark>
+<Placemark><name>小楢山</name><description>
+<![CDATA[
+<a href="konarayama.html">2007.11.17</a><br />
+<a href="konarayama2.html">2017.11.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.664194,35.781528,0</coordinates></Point></Placemark>
+<Placemark><name>鐘ヶ嶽</name><description>
+<![CDATA[
+<a href="ooyamamitsuminesan.html">2007.03.10</a><br />
+<a href="kanegatake.html">2007.11.18</a><br />
+<a href="kanegatake2.html">2011.02.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.271778,35.459389,0</coordinates></Point></Placemark>
+<Placemark><name>丹沢山</name><description>
+<![CDATA[
+<a href="tanzawashumyaku_1.html">2007.11.24</a><br />
+<a href="tanzawashuryou.html">2009.06.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.162667,35.474306,0</coordinates></Point></Placemark>
+<Placemark><name>蛭ヶ岳</name><description>
+<![CDATA[
+<a href="tanzawashumyaku_1.html">2007.11.24</a><br />
+<a href="tanzawashuryou.html">2009.06.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.138889,35.486333,0</coordinates></Point></Placemark>
+<Placemark><name>大平山</name><description>
+<![CDATA[
+<a href="kamakuraalps.html">2007.12.01</a><br />
+<a href="kamakuraalps2.html">2013.12.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.576417,35.335861,0</coordinates></Point></Placemark>
+<Placemark><name>滝子山</name><description>
+<![CDATA[
+<a href="takigoyama.html">2007.12.08</a><br />
+<a href="daibosatsurenrei_1.html">2009.05.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.850917,35.630361,0</coordinates></Point></Placemark>
+<Placemark><name>長九郎山</name><description>
+<![CDATA[
+<a href="choukurouyama.html">2007.12.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.867972,34.788361,0</coordinates></Point></Placemark>
+<Placemark><name>高尾山</name><description>
+<![CDATA[
+<a href="takaosan.html">2007.12.16</a><br />
+<a href="takaosan2.html">2008.12.13</a><br />
+<a href="takaosan3.html">2009.12.13</a><br />
+<a href="takaosan4.html">2010.08.07</a><br />
+<a href="takaosan5.html">2010.12.11</a><br />
+<a href="takaosan6.html">2013.07.07</a><br />
+<a href="takaosan7.html">2013.07.13</a><br />
+<a href="takaosan8.html">2013.12.15</a><br />
+<a href="takaosan9.html">2014.07.21</a><br />
+<a href="takaosan10.html">2015.12.06</a><br />
+<a href="takaosan11.html">2016.02.21</a><br />
+<a href="takaosan12.html">2016.10.16</a><br />
+<a href="takaosan13.html">2019.12.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.243583,35.625194,0</coordinates></Point></Placemark>
+<Placemark><name>天狗山</name><description>
+<![CDATA[
+<a href="tenguyama.html">2007.12.24</a><br />
+<a href="tenguyama2.html">2025.08.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.568972,35.991667,0</coordinates></Point></Placemark>
+<Placemark><name>男山</name><description>
+<![CDATA[
+<a href="tenguyama.html">2007.12.24</a><br />
+<a href="tenguyama2.html">2025.08.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.547500,35.993806,0</coordinates></Point></Placemark>
+<Placemark><name>太神山</name><description>
+<![CDATA[
+<a href="tanakamiyama.html">2008.01.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.984278,34.916722,0</coordinates></Point></Placemark>
+<Placemark><name>鹿岳</name><description>
+<![CDATA[
+<a href="kanatake.html">2008.01.13</a><br />
+<a href="kanatake2.html">2019.04.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.724667,36.206306,0</coordinates></Point></Placemark>
+<Placemark><name>御岳山</name><description>
+<![CDATA[
+<a href="oodakesan.html">2008.01.19</a><br />
+<a href="oodakesan2.html">2008.07.06</a><br />
+<a href="mitakesan.html">2009.08.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.149500,35.782833,0</coordinates></Point></Placemark>
+<Placemark><name>大岳山</name><description>
+<![CDATA[
+<a href="oodakesan.html">2008.01.19</a><br />
+<a href="oodakesan2.html">2008.07.06</a><br />
+<a href="okutamasanzan_1.html">2008.11.23</a><br />
+<a href="unazawatanshouro.html">2010.06.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.130389,35.765194,0</coordinates></Point></Placemark>
+<Placemark><name>発端丈山</name><description>
+<![CDATA[
+<a href="hottanjouyama.html">2008.01.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.903167,35.012861,0</coordinates></Point></Placemark>
+<Placemark><name>大霧山</name><description>
+<![CDATA[
+<a href="oogiriyama.html">2008.01.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.156167,36.034472,0</coordinates></Point></Placemark>
+<Placemark><name>道志二十六夜山</name><description>
+<![CDATA[
+<a href="nijuurokuyasan.html">2008.02.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.946806,35.527611,0</coordinates></Point></Placemark>
+<Placemark><name>神山</name><description>
+<![CDATA[
+<a href="kamiyama.html">2008.02.10</a><br />
+<a href="kamiyama2.html">2012.07.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.020833,35.233389,0</coordinates></Point></Placemark>
+<Placemark><name>岩殿山</name><description>
+<![CDATA[
+<a href="iwadonosan.html">2008.02.11</a><br />
+<a href="iwadonosan2.html">2009.03.15</a><br />
+<a href="iwadonosan3.html">2014.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.949806,35.621694,0</coordinates></Point></Placemark>
+<Placemark><name>御荷鉾山</name><description>
+<![CDATA[
+<a href="mikaboyama.html">2008.02.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.918278,36.152250,0</coordinates></Point></Placemark>
+<Placemark><name>鋸山</name><description>
+<![CDATA[
+<a href="nokogiriyama.html">2008.02.24</a><br />
+<a href="nokogiriyama2.html">2011.12.25</a><br />
+<a href="nokogiriyama3.html">2016.02.06</a><br />
+<a href="nokogiriyama4.html">2026.01.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.840833,35.160361,0</coordinates></Point></Placemark>
+<Placemark><name>四阿屋山</name><description>
+<![CDATA[
+<a href="azumayasan.html">2008.03.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.951611,35.998111,0</coordinates></Point></Placemark>
+<Placemark><name>仏果山</name><description>
+<![CDATA[
+<a href="bukkasan.html">2008.03.02</a><br />
+<a href="bukkasan2.html">2010.02.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.258056,35.520528,0</coordinates></Point></Placemark>
+<Placemark><name>高ドッキョウ</name><description>
+<![CDATA[
+<a href="takadokkyou.html">2008.03.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.438000,35.178472,0</coordinates></Point></Placemark>
+<Placemark><name>権現山</name><description>
+<![CDATA[
+<a href="gongenyama.html">2008.03.15</a><br />
+<a href="gongenyama3.html">2022.03.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.021417,35.667861,0</coordinates></Point></Placemark>
+<Placemark><name>武奈ヶ岳</name><description>
+<![CDATA[
+<a href="bunagatake.html">2008.03.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.896944,35.264583,0</coordinates></Point></Placemark>
+<Placemark><name>突先山</name><description>
+<![CDATA[
+<a href="tossakiyama.html">2008.03.25</a><br />
+<a href="takayama2.html">2025.02.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.276639,35.078389,0</coordinates></Point></Placemark>
+<Placemark><name>ダイラボウ</name><description>
+<![CDATA[
+<a href="tossakiyama.html">2008.03.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.272528,34.992194,0</coordinates></Point></Placemark>
+<Placemark><name>武川岳</name><description>
+<![CDATA[
+<a href="takekawadake.html">2008.03.29</a><br />
+<a href="oomochiyama.html">2023.05.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.130333,35.936917,0</coordinates></Point></Placemark>
+<Placemark><name>妙義山</name><description>
+<![CDATA[
+<a href="myougisan.html">2008.03.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.748806,36.298639,0</coordinates></Point></Placemark>
+<Placemark><name>吾妻山</name><description>
+<![CDATA[
+<a href="narukamiyama.html">2008.04.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.330556,36.430722,0</coordinates></Point></Placemark>
+<Placemark><name>鳴神山</name><description>
+<![CDATA[
+<a href="narukamiyama.html">2008.04.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.361361,36.490250,0</coordinates></Point></Placemark>
+<Placemark><name>古賀志山</name><description>
+<![CDATA[
+<a href="kogashiyama.html">2008.04.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.771472,36.621694,0</coordinates></Point></Placemark>
+<Placemark><name>御前山</name><description>
+<![CDATA[
+<a href="gozenyama.html">2008.04.20</a><br />
+<a href="okutamasanzan_1.html">2008.11.22</a><br />
+<a href="gozenyama2.html">2018.11.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.080639,35.770083,0</coordinates></Point></Placemark>
+<Placemark><name>鐘撞堂山</name><description>
+<![CDATA[
+<a href="kanetsukidouyama.html">2008.05.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.180639,36.134444,0</coordinates></Point></Placemark>
+<Placemark><name>赤鞍ヶ岳</name><description>
+<![CDATA[
+<a href="akakuragatake.html">2008.05.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.041477,35.545387,0</coordinates></Point></Placemark>
+<Placemark><name>鷹ノ巣山</name><description>
+<![CDATA[
+<a href="takanosuyama.html">2008.06.01</a><br />
+<a href="kumotoriyamahaitai.html">2008.06.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.012306,35.829889,0</coordinates></Point></Placemark>
+<Placemark><name>八紘嶺</name><description>
+<![CDATA[
+<a href="yanbushi_1.html">2008.06.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.335639,35.326528,0</coordinates></Point></Placemark>
+<Placemark><name>山伏</name><description>
+<![CDATA[
+<a href="yanbushi_1.html">2008.06.07</a><br />
+<a href="umegashimaonsen_1.html">2012.04.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.285278,35.304444,0</coordinates></Point></Placemark>
+<Placemark><name>御座山</name><description>
+<![CDATA[
+<a href="ogurasan.html">2008.06.14</a><br />
+<a href="ogurasan2.html">2018.07.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.606806,36.034083,0</coordinates></Point></Placemark>
+<Placemark><name>社山</name><description>
+<![CDATA[
+<a href="shazan.html">2008.06.24</a><br />
+<a href="kurobidake.html">2025.09.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.444750,36.719639,0</coordinates></Point></Placemark>
+<Placemark><name>燧ヶ岳</name><description>
+<![CDATA[
+<a href="hiuchigatake_1.html">2008.07.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.285306,36.955111,0</coordinates></Point></Placemark>
+<Placemark><name>鳥海山</name><description>
+<![CDATA[
+<a href="choukaisan_1.html">2008.07.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.048861,39.099389,0</coordinates></Point></Placemark>
+<Placemark><name>蔵王山</name><description>
+<![CDATA[
+<a href="choukaisan_1.html">2008.07.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.439389,38.143639,0</coordinates></Point></Placemark>
+<Placemark><name>燕岳</name><description>
+<![CDATA[
+<a href="tsubakurodake_1.html">2008.07.26</a><br />
+<a href="jounensanmyakujuusou_1.html">2009.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.712722,36.406806,0</coordinates></Point></Placemark>
+<Placemark><name>甲武信ヶ岳</name><description>
+<![CDATA[
+<a href="kobushigatake_1.html">2008.08.03</a><br />
+<a href="tosakayama.html">2014.09.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.728861,35.909111,0</coordinates></Point></Placemark>
+<Placemark><name>越後駒ヶ岳</name><description>
+<![CDATA[
+<a href="echigosanzan_1.html">2008.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.075222,37.123611,0</coordinates></Point></Placemark>
+<Placemark><name>中ノ岳</name><description>
+<![CDATA[
+<a href="echigosanzan_1.html">2008.08.09</a><br />
+<a href="nakanodake_1.html">2024.06.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.077556,37.085250,0</coordinates></Point></Placemark>
+<Placemark><name>八海山</name><description>
+<![CDATA[
+<a href="echigosanzan_1.html">2008.08.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.023972,37.103917,0</coordinates></Point></Placemark>
+<Placemark><name>有間山</name><description>
+<![CDATA[
+<a href="arimayama.html">2008.09.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.115944,35.886611,0</coordinates></Point></Placemark>
+<Placemark><name>一切経山</name><description>
+<![CDATA[
+<a href="adumayama_1.html">2008.09.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.244306,37.735361,0</coordinates></Point></Placemark>
+<Placemark><name>吾妻山</name><description>
+<![CDATA[
+<a href="adumayama_1.html">2008.09.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.140722,37.738139,0</coordinates></Point></Placemark>
+<Placemark><name>妙高山</name><description>
+<![CDATA[
+<a href="kubikisanzan_1.html">2008.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.113556,36.891250,0</coordinates></Point></Placemark>
+<Placemark><name>火打山</name><description>
+<![CDATA[
+<a href="kubikisanzan_1.html">2008.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.068083,36.922694,0</coordinates></Point></Placemark>
+<Placemark><name>焼山</name><description>
+<![CDATA[
+<a href="kubikisanzan_1.html">2008.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.035917,36.920944,0</coordinates></Point></Placemark>
+<Placemark><name>御嶽山</name><description>
+<![CDATA[
+<a href="ontakesan_1.html">2008.10.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.480389,35.892972,0</coordinates></Point></Placemark>
+<Placemark><name>陣馬山</name><description>
+<![CDATA[
+<a href="jinbasan.html">2008.10.19</a><br />
+<a href="jinbasan2.html">2012.12.24</a><br />
+<a href="jinbasan3.html">2015.09.05</a><br />
+<a href="jinbasan4.html">2021.01.01</a><br />
+<a href="jinbasan5.html">2026.01.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.166500,35.652167,0</coordinates></Point></Placemark>
+<Placemark><name>鍋割山</name><description>
+<![CDATA[
+<a href="nabewariyama.html">2008.10.26</a><br />
+<a href="tounodake3.html">2009.01.21</a><br />
+<a href="nabewariyama2.html">2010.01.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.141361,35.443778,0</coordinates></Point></Placemark>
+<Placemark><name>大無間山</name><description>
+<![CDATA[
+<a href="daimugensan_1.html">2008.11.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.161528,35.255972,0</coordinates></Point></Placemark>
+<Placemark><name>迦葉山</name><description>
+<![CDATA[
+<a href="kashouzan.html">2008.11.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.062306,36.759000,0</coordinates></Point></Placemark>
+<Placemark><name>大野山</name><description>
+<![CDATA[
+<a href="oonoyama.html">2008.11.30</a><br />
+<a href="hikageyama.html">2010.04.10</a><br />
+<a href="oonoyama2.html">2021.01.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.048722,35.385972,0</coordinates></Point></Placemark>
+<Placemark><name>高柄山</name><description>
+<![CDATA[
+<a href="takatsukayama.html">2008.12.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.089028,35.594611,0</coordinates></Point></Placemark>
+<Placemark><name>鷹取山</name><description>
+<![CDATA[
+<a href="takatoriyama.html">2008.12.23</a><br />
+<a href="takatoriyama2.html">2018.12.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.612667,35.306639,0</coordinates></Point></Placemark>
+<Placemark><name>妙光寺山</name><description>
+<![CDATA[
+<a href="myoukoujiyama.html">2008.12.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.036806,35.060583,0</coordinates></Point></Placemark>
+<Placemark><name>竜王山</name><description>
+<![CDATA[
+<a href="ryuuouzan2.html">2008.12.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.022750,34.963139,0</coordinates></Point></Placemark>
+<Placemark><name>雷電山</name><description>
+<![CDATA[
+<a href="okutamarojji_1.html">2009.01.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.215194,35.815528,0</coordinates></Point></Placemark>
+<Placemark><name>御坂黒岳</name><description>
+<![CDATA[
+<a href="kurodake.html">2009.01.12</a><br />
+<a href="kurodake2.html">2018.09.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.749417,35.552056,0</coordinates></Point></Placemark>
+<Placemark><name>筑波山</name><description>
+<![CDATA[
+<a href="tsukubasan.html">2009.01.18</a><br />
+<a href="tsukubasan2.html">2015.03.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.106917,36.225361,0</coordinates></Point></Placemark>
+<Placemark><name>丸山</name><description>
+<![CDATA[
+<a href="maruyama.html">2009.01.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.159611,35.988639,0</coordinates></Point></Placemark>
+<Placemark><name>鳴虫山</name><description>
+<![CDATA[
+<a href="nakimushiyama.html">2009.02.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.596389,36.730333,0</coordinates></Point></Placemark>
+<Placemark><name>大桁山</name><description>
+<![CDATA[
+<a href="oogetayama.html">2009.02.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.772278,36.245028,0</coordinates></Point></Placemark>
+<Placemark><name>弁天山</name><description>
+<![CDATA[
+<a href="bentenyama.html">2009.02.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.246667,35.720500,0</coordinates></Point></Placemark>
+<Placemark><name>長者ヶ岳</name><description>
+<![CDATA[
+<a href="choujagatake.html">2009.02.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.534667,35.341250,0</coordinates></Point></Placemark>
+<Placemark><name>天子ヶ岳</name><description>
+<![CDATA[
+<a href="choujagatake.html">2009.02.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.536694,35.329056,0</coordinates></Point></Placemark>
+<Placemark><name>臼杵山</name><description>
+<![CDATA[
+<a href="tokurasanzan.html">2009.02.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.165361,35.706500,0</coordinates></Point></Placemark>
+<Placemark><name>鼻曲山</name><description>
+<![CDATA[
+<a href="hanamagariyama.html">2009.02.28</a><br />
+<a href="tsunoochiyama.html">2009.09.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.645306,36.410833,0</coordinates></Point></Placemark>
+<Placemark><name>幕山</name><description>
+<![CDATA[
+<a href="makuyama.html">2009.03.01</a><br />
+<a href="makuyama2.html">2012.01.28</a><br />
+<a href="makuyama3.html">2014.03.22</a><br />
+<a href="makuyama4.html">2017.02.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.091306,35.173694,0</coordinates></Point></Placemark>
+<Placemark><name>天覧山</name><description>
+<![CDATA[
+<a href="tenranzan.html">2009.03.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.308222,35.862028,0</coordinates></Point></Placemark>
+<Placemark><name>大高山</name><description>
+<![CDATA[
+<a href="tenranzan.html">2009.03.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.232889,35.898222,0</coordinates></Point></Placemark>
+<Placemark><name>秩父槍ヶ岳</name><description>
+<![CDATA[
+<a href="chichibuyarigatake.html">2009.03.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.814167,35.990694,0</coordinates></Point></Placemark>
+<Placemark><name>篠井山</name><description>
+<![CDATA[
+<a href="shinoisan.html">2009.03.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.426472,35.247694,0</coordinates></Point></Placemark>
+<Placemark><name>鍬ノ峰</name><description>
+<![CDATA[
+<a href="kuwanomine.html">2009.04.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.794889,36.484833,0</coordinates></Point></Placemark>
+<Placemark><name>城山</name><description>
+<![CDATA[
+<a href="takaosan.html">2007.12.16</a><br />
+<a href="shiroyama.html">2009.04.05</a><br />
+<a href="takaosan12.html">2016.10.16</a><br />
+<a href="takaosan13.html">2019.12.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.221167,35.629861,0</coordinates></Point></Placemark>
+<Placemark><name>大光山</name><description>
+<![CDATA[
+<a href="juumaisan_1.html">2009.04.10</a><br />
+<a href="umegashimaonsen_1.html">2012.04.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.366750,35.280500,0</coordinates></Point></Placemark>
+<Placemark><name>十枚山</name><description>
+<![CDATA[
+<a href="juumaisan_1.html">2009.04.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.377917,35.253639,0</coordinates></Point></Placemark>
+<Placemark><name>真富士山</name><description>
+<![CDATA[
+<a href="juumaisan_1.html">2009.04.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.395444,35.147972,0</coordinates></Point></Placemark>
+<Placemark><name>笹子雁ヶ腹摺山</name><description>
+<![CDATA[
+<a href="sasagogangaharasuriyama.html">2009.04.12</a><br />
+<a href="sasagogangaharasuriyama2.html">2015.10.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.793722,35.617361,0</coordinates></Point></Placemark>
+<Placemark><name>石裂山</name><description>
+<![CDATA[
+<a href="ozakusan.html">2009.04.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.580417,36.598056,0</coordinates></Point></Placemark>
+<Placemark><name>岩山</name><description>
+<![CDATA[
+<a href="ozakusan.html">2009.04.18</a><br />
+<a href="iwayama.html">2016.03.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.722167,36.578222,0</coordinates></Point></Placemark>
+<Placemark><name>太郎山</name><description>
+<![CDATA[
+<a href="tarousan.html">2009.04.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.482750,36.817861,0</coordinates></Point></Placemark>
+<Placemark><name>矢倉岳</name><description>
+<![CDATA[
+<a href="yaguradake.html">2009.04.29</a><br />
+<a href="yaguradake2.html">2010.01.09</a><br />
+<a href="yaguradake3.html">2020.05.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.035333,35.328583,0</coordinates></Point></Placemark>
+<Placemark><name>前黒法師岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.070111,35.187333,0</coordinates></Point></Placemark>
+<Placemark><name>黒法師岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.029361,35.196139,0</coordinates></Point></Placemark>
+<Placemark><name>丸盆岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.036472,35.211000,0</coordinates></Point></Placemark>
+<Placemark><name>不動岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.041083,35.235444,0</coordinates></Point></Placemark>
+<Placemark><name>中ノ尾根山</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.018056,35.294222,0</coordinates></Point></Placemark>
+<Placemark><name>鶏冠山</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.026444,35.314639,0</coordinates></Point></Placemark>
+<Placemark><name>池口岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.038306,35.330167,0</coordinates></Point></Placemark>
+<Placemark><name>光岳</name><description>
+<![CDATA[
+<a href="nanashinnanbujuusou_1.html">2009.05.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.083778,35.338167,0</coordinates></Point></Placemark>
+<Placemark><name>小金沢山</name><description>
+<![CDATA[
+<a href="daibosatsurenrei_1.html">2009.05.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.856583,35.716944,0</coordinates></Point></Placemark>
+<Placemark><name>黒岳</name><description>
+<![CDATA[
+<a href="daibosatsurenrei_1.html">2009.05.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.859750,35.688528,0</coordinates></Point></Placemark>
+<Placemark><name>大蔵高丸</name><description>
+<![CDATA[
+<a href="daibosatsurenrei_1.html">2009.05.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.846806,35.672806,0</coordinates></Point></Placemark>
+<Placemark><name>高宕山</name><description>
+<![CDATA[
+<a href="takagoyama.html">2009.05.16</a><br />
+<a href="takagoyama2.html">2014.04.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.993194,35.196583,0</coordinates></Point></Placemark>
+<Placemark><name>大室山</name><description>
+<![CDATA[
+<a href="oomuroyama.html">2009.05.23</a><br />
+<a href="oomuroyama3.html">2012.06.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.068528,35.510944,0</coordinates></Point></Placemark>
+<Placemark><name>日向山</name><description>
+<![CDATA[
+<a href="hinatayama2.html">2009.06.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.271361,35.802361,0</coordinates></Point></Placemark>
+<Placemark><name>三国山</name><description>
+<![CDATA[
+<a href="mikuniyama.html">2009.06.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.984083,35.215917,0</coordinates></Point></Placemark>
+<Placemark><name>本社ヶ丸</name><description>
+<![CDATA[
+<a href="mitsutougeyama2.html">2009.06.14</a><br />
+<a href="honjagamaru.html">2022.08.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.807306,35.574833,0</coordinates></Point></Placemark>
+<Placemark><name>男体山</name><description>
+<![CDATA[
+<a href="nantaisan_1.html">2009.06.27</a><br />
+<a href="nantaisan2.html">2021.09.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.490722,36.765056,0</coordinates></Point></Placemark>
+<Placemark><name>武尊山</name><description>
+<![CDATA[
+<a href="nantaisan_1.html">2009.06.28</a><br />
+<a href="hotakayama.html">2025.07.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.132556,36.805194,0</coordinates></Point></Placemark>
+<Placemark><name>巻機山</name><description>
+<![CDATA[
+<a href="makihatayama_1.html">2009.07.12</a><br />
+<a href="makihatayama2.html">2012.09.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.964417,36.978556,0</coordinates></Point></Placemark>
+<Placemark><name>荒川岳</name><description>
+<![CDATA[
+<a href="arakawadake_1.html">2009.07.18</a><br />
+<a href="minamialpsjuusou_1.html">2010.08.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.182417,35.500722,0</coordinates></Point></Placemark>
+<Placemark><name>大室山</name><description>
+<![CDATA[
+<a href="oomuroyama2.html">2009.07.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.653556,35.440806,0</coordinates></Point></Placemark>
+<Placemark><name>焼岳</name><description>
+<![CDATA[
+<a href="hotakayarijuusou_1.html">2009.08.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.587028,36.226861,0</coordinates></Point></Placemark>
+<Placemark><name>西穂高岳</name><description>
+<![CDATA[
+<a href="hotakayarijuusou_1.html">2009.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.629028,36.279000,0</coordinates></Point></Placemark>
+<Placemark><name>穂高岳</name><description>
+<![CDATA[
+<a href="hotakayarijuusou_1.html">2009.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.647972,36.289194,0</coordinates></Point></Placemark>
+<Placemark><name>大雪山</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.854111,43.663583,0</coordinates></Point></Placemark>
+<Placemark><name>忠別岳</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.894500,43.591056,0</coordinates></Point></Placemark>
+<Placemark><name>トムラウシ</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.848750,43.527111,0</coordinates></Point></Placemark>
+<Placemark><name>オプタテシケ山</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.751528,43.470250,0</coordinates></Point></Placemark>
+<Placemark><name>美瑛岳</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.706528,43.439861,0</coordinates></Point></Placemark>
+<Placemark><name>十勝岳</name><description>
+<![CDATA[
+<a href="daisetsutokachijuusou_1.html">2009.08.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>142.686278,43.417833,0</coordinates></Point></Placemark>
+<Placemark><name>御神楽岳</name><description>
+<![CDATA[
+<a href="mikaguradake_1.html">2009.09.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.425833,37.521889,0</coordinates></Point></Placemark>
+<Placemark><name>角落山</name><description>
+<![CDATA[
+<a href="tsunoochiyama.html">2009.09.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.688222,36.421750,0</coordinates></Point></Placemark>
+<Placemark><name>有明山</name><description>
+<![CDATA[
+<a href="ariakeyama.html">2009.09.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.770639,36.391083,0</coordinates></Point></Placemark>
+<Placemark><name>蝶ヶ岳</name><description>
+<![CDATA[
+<a href="jounensanmyakujuusou_1.html">2009.09.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.726056,36.287389,0</coordinates></Point></Placemark>
+<Placemark><name>常念岳</name><description>
+<![CDATA[
+<a href="jounensanmyakujuusou_1.html">2009.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.727556,36.325528,0</coordinates></Point></Placemark>
+<Placemark><name>大天井岳</name><description>
+<![CDATA[
+<a href="jounensanmyakujuusou_1.html">2009.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.701083,36.365000,0</coordinates></Point></Placemark>
+<Placemark><name>苗場山</name><description>
+<![CDATA[
+<a href="naebasan_1.html">2009.09.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.690278,36.845917,0</coordinates></Point></Placemark>
+<Placemark><name>シダンゴ山</name><description>
+<![CDATA[
+<a href="shidangoyama.html">2009.10.04</a><br />
+<a href="hikageyama.html">2010.04.10</a><br />
+<a href="shidangoyama2.html">2015.11.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.123472,35.408389,0</coordinates></Point></Placemark>
+<Placemark><name>爺ヶ岳</name><description>
+<![CDATA[
+<a href="kashimayarigatake_1.html">2009.10.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.750889,36.588306,0</coordinates></Point></Placemark>
+<Placemark><name>鹿島槍ヶ岳</name><description>
+<![CDATA[
+<a href="kashimayarigatake_1.html">2009.10.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.747028,36.624556,0</coordinates></Point></Placemark>
+<Placemark><name>女峰山</name><description>
+<![CDATA[
+<a href="nyohousan_1.html">2009.10.18</a><br />
+<a href="nyohousan2.html">2023.07.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.536444,36.811444,0</coordinates></Point></Placemark>
+<Placemark><name>榛名山</name><description>
+<![CDATA[
+<a href="harunasan_1.html">2009.10.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.850833,36.477389,0</coordinates></Point></Placemark>
+<Placemark><name>榛名富士</name><description>
+<![CDATA[
+<a href="harunasan_1.html">2009.10.25</a><br />
+<a href="komochiyama_1.html">2011.11.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.878250,36.476944,0</coordinates></Point></Placemark>
+<Placemark><name>相馬山</name><description>
+<![CDATA[
+<a href="harunasan_1.html">2009.10.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.900750,36.474472,0</coordinates></Point></Placemark>
+<Placemark><name>鶴寝山</name><description>
+<![CDATA[
+<a href="tsuruneyama.html">2009.11.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.943222,35.734139,0</coordinates></Point></Placemark>
+<Placemark><name>大ナゲシ</name><description>
+<![CDATA[
+<a href="oonageshi.html">2009.11.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.805472,36.037833,0</coordinates></Point></Placemark>
+<Placemark><name>谷川岳</name><description>
+<![CDATA[
+<a href="tanigawadake_1.html">2009.11.07</a><br />
+<a href="tanigawadake2.html">2017.08.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.930139,36.837083,0</coordinates></Point></Placemark>
+<Placemark><name>大源太山</name><description>
+<![CDATA[
+<a href="tanigawadake_1.html">2009.11.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.927083,36.902611,0</coordinates></Point></Placemark>
+<Placemark><name>横根山</name><description>
+<![CDATA[
+<a href="kobugahara.html">2009.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.522222,36.619806,0</coordinates></Point></Placemark>
+<Placemark><name>金時山</name><description>
+<![CDATA[
+<a href="kintokiyama.html">2009.11.28</a><br />
+<a href="kintokiyama2.html">2010.10.23</a><br />
+<a href="kintokiyama3.html">2013.11.02</a><br />
+<a href="kintokiyama4.html">2025.07.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.004833,35.289694,0</coordinates></Point></Placemark>
+<Placemark><name>毛無岩</name><description>
+<![CDATA[
+<a href="tatsuiwa.html">2009.12.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.664306,36.198889,0</coordinates></Point></Placemark>
+<Placemark><name>立岩</name><description>
+<![CDATA[
+<a href="tatsuiwa.html">2009.12.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.642889,36.186444,0</coordinates></Point></Placemark>
+<Placemark><name>編笠山</name><description>
+<![CDATA[
+<a href="amigasayama.html">2009.12.06</a><br />
+<a href="amigasayama2.html">2021.09.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.345028,35.941722,0</coordinates></Point></Placemark>
+<Placemark><name>城峯山</name><description>
+<![CDATA[
+<a href="jouminesan.html">2009.12.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.007639,36.097583,0</coordinates></Point></Placemark>
+<Placemark><name>吾妻耶山</name><description>
+<![CDATA[
+<a href="adumayasan.html">2010.01.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.927306,36.746444,0</coordinates></Point></Placemark>
+<Placemark><name>鷲頭山</name><description>
+<![CDATA[
+<a href="numadualps.html">2010.02.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.893889,35.059389,0</coordinates></Point></Placemark>
+<Placemark><name>関八州見晴台</name><description>
+<![CDATA[
+<a href="kanhasshuumiharashidai.html">2010.02.14</a><br />
+<a href="kanhasshuumiharashidai2.html">2024.01.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.221944,35.946806,0</coordinates></Point></Placemark>
+<Placemark><name>百蔵山</name><description>
+<![CDATA[
+<a href="ougiyama.html">2010.03.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.981000,35.638083,0</coordinates></Point></Placemark>
+<Placemark><name>扇山</name><description>
+<![CDATA[
+<a href="ougiyama.html">2010.03.14</a><br />
+<a href="gongenyama3.html">2022.03.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.013361,35.637083,0</coordinates></Point></Placemark>
+<Placemark><name>不老山</name><description>
+<![CDATA[
+<a href="furousan.html">2010.03.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.003056,35.399750,0</coordinates></Point></Placemark>
+<Placemark><name>石尊山</name><description>
+<![CDATA[
+<a href="senningatake.html">2010.03.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.396833,36.405667,0</coordinates></Point></Placemark>
+<Placemark><name>仙人ヶ岳</name><description>
+<![CDATA[
+<a href="senningatake.html">2010.03.27</a><br />
+<a href="senningatake2.html">2020.03.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.400806,36.436667,0</coordinates></Point></Placemark>
+<Placemark><name>日影山</name><description>
+<![CDATA[
+<a href="hikageyama.html">2010.04.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.083083,35.410194,0</coordinates></Point></Placemark>
+<Placemark><name>笠丸山</name><description>
+<![CDATA[
+<a href="kasamaruyama.html">2010.04.18</a><br />
+<a href="kasamaruyama2.html">2017.04.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.754833,36.104194,0</coordinates></Point></Placemark>
+<Placemark><name>飛龍山</name><description>
+<![CDATA[
+<a href="wanakurayama_1.html">2010.04.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.892194,35.839778,0</coordinates></Point></Placemark>
+<Placemark><name>和名倉山</name><description>
+<![CDATA[
+<a href="wanakurayama_1.html">2010.04.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.878000,35.899389,0</coordinates></Point></Placemark>
+<Placemark><name>会津駒ヶ岳</name><description>
+<![CDATA[
+<a href="aidukomagatake.html">2010.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.353750,37.047583,0</coordinates></Point></Placemark>
+<Placemark><name>三岩岳</name><description>
+<![CDATA[
+<a href="aidukomagatake.html">2010.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.379583,37.081861,0</coordinates></Point></Placemark>
+<Placemark><name>赤岩岳</name><description>
+<![CDATA[
+<a href="akaiwaone.html">2010.05.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.812111,36.033583,0</coordinates></Point></Placemark>
+<Placemark><name>大楠山</name><description>
+<![CDATA[
+<a href="oogusuyama.html">2010.05.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.628056,35.250083,0</coordinates></Point></Placemark>
+<Placemark><name>薬師岳</name><description>
+<![CDATA[
+<a href="yuuhidake.html">2010.05.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.522833,36.707917,0</coordinates></Point></Placemark>
+<Placemark><name>夕日岳</name><description>
+<![CDATA[
+<a href="yuuhidake.html">2010.05.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.533028,36.689750,0</coordinates></Point></Placemark>
+<Placemark><name>畦ヶ丸</name><description>
+<![CDATA[
+<a href="azegamaru.html">2010.06.26</a><br />
+<a href="azegamaru2.html">2020.06.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.032167,35.478000,0</coordinates></Point></Placemark>
+<Placemark><name>四阿山</name><description>
+<![CDATA[
+<a href="azumayasan2.html">2010.07.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.412917,36.541750,0</coordinates></Point></Placemark>
+<Placemark><name>赤石岳</name><description>
+<![CDATA[
+<a href="minamialpsjuusou_1.html">2010.08.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.157333,35.461194,0</coordinates></Point></Placemark>
+<Placemark><name>聖岳</name><description>
+<![CDATA[
+<a href="minamialpsjuusou_1.html">2010.08.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.139611,35.422528,0</coordinates></Point></Placemark>
+<Placemark><name>上河内岳</name><description>
+<![CDATA[
+<a href="minamialpsjuusou_1.html">2010.08.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.152806,35.389611,0</coordinates></Point></Placemark>
+<Placemark><name>茶臼岳</name><description>
+<![CDATA[
+<a href="minamialpsjuusou_1.html">2010.08.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.140361,35.369111,0</coordinates></Point></Placemark>
+<Placemark><name>石老山</name><description>
+<![CDATA[
+<a href="sekirousan.html">2010.10.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.190556,35.585250,0</coordinates></Point></Placemark>
+<Placemark><name>日和田山</name><description>
+<![CDATA[
+<a href="hiwadasan.html">2010.10.11</a><br />
+<a href="hiwadasan2.html">2018.05.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.304833,35.893750,0</coordinates></Point></Placemark>
+<Placemark><name>稲含山</name><description>
+<![CDATA[
+<a href="inafukumiyama.html">2010.11.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.825194,36.169500,0</coordinates></Point></Placemark>
+<Placemark><name>開聞岳</name><description>
+<![CDATA[
+<a href="kagoshima_1.html">2010.12.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.528389,31.179917,0</coordinates></Point></Placemark>
+<Placemark><name>野間岳</name><description>
+<![CDATA[
+<a href="kagoshima_1.html">2010.12.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.158194,31.404528,0</coordinates></Point></Placemark>
+<Placemark><name>霧ヶ峰</name><description>
+<![CDATA[
+<a href="kirigamine_1.html">2011.07.22</a><br />
+<a href="kirigamine2.html">2024.08.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.196667,36.103056,0</coordinates></Point></Placemark>
+<Placemark><name>美ヶ原</name><description>
+<![CDATA[
+<a href="kirigamine_1.html">2011.07.22</a><br />
+<a href="norikura_1.html">2016.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.107417,36.225806,0</coordinates></Point></Placemark>
+<Placemark><name>篭ノ登山</name><description>
+<![CDATA[
+<a href="arafuneyama2_1.html">2011.10.10</a><br />
+<a href="kagonotoyama.html">2017.06.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.447111,36.419306,0</coordinates></Point></Placemark>
+<Placemark><name>三浦富士</name><description>
+<![CDATA[
+<a href="miurafuji.html">2011.10.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.668500,35.215667,0</coordinates></Point></Placemark>
+<Placemark><name>茅ヶ岳</name><description>
+<![CDATA[
+<a href="kayagatake.html">2011.11.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.513750,35.795000,0</coordinates></Point></Placemark>
+<Placemark><name>子持山</name><description>
+<![CDATA[
+<a href="komochiyama_1.html">2011.11.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.997667,36.591944,0</coordinates></Point></Placemark>
+<Placemark><name>大持山</name><description>
+<![CDATA[
+<a href="bukousan2.html">2011.12.17</a><br />
+<a href="oomochiyama.html">2023.05.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.100500,35.928556,0</coordinates></Point></Placemark>
+<Placemark><name>御殿山</name><description>
+<![CDATA[
+<a href="gotenyama.html">2012.02.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.947778,35.088750,0</coordinates></Point></Placemark>
+<Placemark><name>嵯峨山</name><description>
+<![CDATA[
+<a href="gotenyama.html">2012.02.04</a><br />
+<a href="nokogiriyama4.html">2026.01.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.883528,35.157361,0</coordinates></Point></Placemark>
+<Placemark><name>菜畑山</name><description>
+<![CDATA[
+<a href="nabatakeura.html">2012.02.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.006139,35.528333,0</coordinates></Point></Placemark>
+<Placemark><name>高麗山</name><description>
+<![CDATA[
+<a href="komayama.html">2012.03.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.320944,35.322917,0</coordinates></Point></Placemark>
+<Placemark><name>身延山</name><description>
+<![CDATA[
+<a href="minobusan.html">2012.03.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.416250,35.397444,0</coordinates></Point></Placemark>
+<Placemark><name>飯盛山</name><description>
+<![CDATA[
+<a href="meshimoriyama.html">2012.03.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.474222,35.919500,0</coordinates></Point></Placemark>
+<Placemark><name>蕨山</name><description>
+<![CDATA[
+<a href="warabiyama.html">2012.03.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.134333,35.895278,0</coordinates></Point></Placemark>
+<Placemark><name>太平山</name><description>
+<![CDATA[
+<a href="teruishisan.html">2012.04.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.690333,36.365028,0</coordinates></Point></Placemark>
+<Placemark><name>三毳山</name><description>
+<![CDATA[
+<a href="teruishisan.html">2012.04.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.629194,36.315944,0</coordinates></Point></Placemark>
+<Placemark><name>上州三峰山</name><description>
+<![CDATA[
+<a href="joushuumitsumineyama.html">2012.04.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.018028,36.719528,0</coordinates></Point></Placemark>
+<Placemark><name>烏帽子岳</name><description>
+<![CDATA[
+<a href="eboshidake.html">2012.05.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.697556,36.127944,0</coordinates></Point></Placemark>
+<Placemark><name>平標山</name><description>
+<![CDATA[
+<a href="tairappyouyama.html">2012.05.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.821833,36.817861,0</coordinates></Point></Placemark>
+<Placemark><name>鍋嵐</name><description>
+<![CDATA[
+<a href="nabewarashi.html">2012.05.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.236194,35.485417,0</coordinates></Point></Placemark>
+<Placemark><name>日光白根山</name><description>
+<![CDATA[
+<a href="nikkoushiranesan.html">2012.06.24</a><br />
+<a href="nikkoushiranesan2.html">2018.08.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.375889,36.798583,0</coordinates></Point></Placemark>
+<Placemark><name>瑞牆山</name><description>
+<![CDATA[
+<a href="mizugakiyama.html">2012.06.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.592083,35.893417,0</coordinates></Point></Placemark>
+<Placemark><name>櫛形山</name><description>
+<![CDATA[
+<a href="kushigatayama.html">2012.07.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.369194,35.586667,0</coordinates></Point></Placemark>
+<Placemark><name>嵩山</name><description>
+<![CDATA[
+<a href="shirasunayama_1.html">2012.07.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.831028,36.613889,0</coordinates></Point></Placemark>
+<Placemark><name>白砂山</name><description>
+<![CDATA[
+<a href="shirasunayama_1.html">2012.07.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.693444,36.738056,0</coordinates></Point></Placemark>
+<Placemark><name>戸隠山</name><description>
+<![CDATA[
+<a href="kitashinshuuryokou_1.html">2012.08.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.055056,36.770361,0</coordinates></Point></Placemark>
+<Placemark><name>天狗岳</name><description>
+<![CDATA[
+<a href="tengudake_1.html">2012.08.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.355417,36.019167,0</coordinates></Point></Placemark>
+<Placemark><name>笠取山</name><description>
+<![CDATA[
+<a href="kasatoriyama.html">2012.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.819889,35.865389,0</coordinates></Point></Placemark>
+<Placemark><name>金峰山</name><description>
+<![CDATA[
+<a href="kinpusan.html">2012.09.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.625444,35.871611,0</coordinates></Point></Placemark>
+<Placemark><name>諏訪山</name><description>
+<![CDATA[
+<a href="suwayama.html">2012.10.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.729556,36.040028,0</coordinates></Point></Placemark>
+<Placemark><name>大山</name><description>
+<![CDATA[
+<a href="ooyama4.html">2012.10.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.619889,36.805833,0</coordinates></Point></Placemark>
+<Placemark><name>浅間隠山</name><description>
+<![CDATA[
+<a href="asamakakushiyama.html">2012.10.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.652472,36.453722,0</coordinates></Point></Placemark>
+<Placemark><name>白山</name><description>
+<![CDATA[
+<a href="hakusan.html">2012.11.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.298528,35.471611,0</coordinates></Point></Placemark>
+<Placemark><name>桜山</name><description>
+<![CDATA[
+<a href="sakurayama.html">2012.12.01</a><br />
+<a href="sakurayama2.html">2013.12.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.021222,36.161583,0</coordinates></Point></Placemark>
+<Placemark><name>日向山</name><description>
+<![CDATA[
+<a href="hinatayama3.html">2012.12.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.277222,35.442778,0</coordinates></Point></Placemark>
+<Placemark><name>景信山</name><description>
+<![CDATA[
+<a href="takaosan.html">2007.12.16</a><br />
+<a href="kagenobuyama.html">2013.01.13</a><br />
+<a href="kagenobuyama2.html">2014.01.19</a><br />
+<a href="jinbasan4.html">2021.01.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.215833,35.646028,0</coordinates></Point></Placemark>
+<Placemark><name>高塚山</name><description>
+<![CDATA[
+<a href="takatsukayama2.html">2013.01.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.940389,34.937417,0</coordinates></Point></Placemark>
+<Placemark><name>達磨山</name><description>
+<![CDATA[
+<a href="darumayama.html">2013.02.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.839250,34.954972,0</coordinates></Point></Placemark>
+<Placemark><name>鳥ノ胸山</name><description>
+<![CDATA[
+<a href="tonnomuneyama.html">2013.03.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.006556,35.498694,0</coordinates></Point></Placemark>
+<Placemark><name>鉄砲木ノ頭</name><description>
+<![CDATA[
+<a href="teppouginoatama.html">2013.04.13</a><br />
+<a href="teppouginoatama2.html">2021.01.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.917889,35.411167,0</coordinates></Point></Placemark>
+<Placemark><name>八溝山</name><description>
+<![CDATA[
+<a href="kitaibaraki_1.html">2013.04.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.272972,36.930139,0</coordinates></Point></Placemark>
+<Placemark><name>奥久慈男体山</name><description>
+<![CDATA[
+<a href="kitaibaraki_1.html">2013.04.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.419639,36.724194,0</coordinates></Point></Placemark>
+<Placemark><name>竪破山</name><description>
+<![CDATA[
+<a href="kitaibaraki_1.html">2013.04.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.562222,36.710778,0</coordinates></Point></Placemark>
+<Placemark><name>南山</name><description>
+<![CDATA[
+<a href="minamiyama.html">2013.05.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.245306,35.548694,0</coordinates></Point></Placemark>
+<Placemark><name>二子山</name><description>
+<![CDATA[
+<a href="futagoyama3.html">2013.05.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.605833,35.282444,0</coordinates></Point></Placemark>
+<Placemark><name>鉢伏山</name><description>
+<![CDATA[
+<a href="tateshinayama2_1.html">2013.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.059139,36.163056,0</coordinates></Point></Placemark>
+<Placemark><name>湯ノ丸山</name><description>
+<![CDATA[
+<a href="yunomaruyama.html">2013.09.28</a><br />
+<a href="yunomaruyama2.html">2020.10.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.400917,36.434722,0</coordinates></Point></Placemark>
+<Placemark><name>志賀山</name><description>
+<![CDATA[
+<a href="kusatsushiranesan_1.html">2013.10.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.511167,36.699472,0</coordinates></Point></Placemark>
+<Placemark><name>草津白根山</name><description>
+<![CDATA[
+<a href="kusatsushiranesan_1.html">2013.10.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.531694,36.622889,0</coordinates></Point></Placemark>
+<Placemark><name>加波山</name><description>
+<![CDATA[
+<a href="kabasan.html">2013.11.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.143611,36.298778,0</coordinates></Point></Placemark>
+<Placemark><name>弥三郎岳</name><description>
+<![CDATA[
+<a href="mitakeshousenkyou.html">2013.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.559639,35.747278,0</coordinates></Point></Placemark>
+<Placemark><name>辺室山</name><description>
+<![CDATA[
+<a href="nabewarashi.html">2012.05.31</a><br />
+<a href="henmuroyama.html">2013.12.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.254444,35.489528,0</coordinates></Point></Placemark>
+<Placemark><name>房の大山</name><description>
+<![CDATA[
+<a href="fusanoooyama.html">2014.01.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.777694,34.964194,0</coordinates></Point></Placemark>
+<Placemark><name>坂戸山</name><description>
+<![CDATA[
+<a href="niigata_1.html">2014.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.898385,37.059071,0</coordinates></Point></Placemark>
+<Placemark><name>十二ヶ岳</name><description>
+<![CDATA[
+<a href="settougatake.html">2014.05.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.691413,35.519646,0</coordinates></Point></Placemark>
+<Placemark><name>節刀ヶ岳</name><description>
+<![CDATA[
+<a href="settougatake.html">2014.05.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.683388,35.528509,0</coordinates></Point></Placemark>
+<Placemark><name>備前楯山</name><description>
+<![CDATA[
+<a href="bizentateyama.html">2014.05.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.427300,36.655775,0</coordinates></Point></Placemark>
+<Placemark><name>小浅間山</name><description>
+<![CDATA[
+<a href="koasamayama.html">2014.06.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.562207,36.409900,0</coordinates></Point></Placemark>
+<Placemark><name>北奥千丈岳</name><description>
+<![CDATA[
+<a href="kokushigatake.html">2014.07.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.670723,35.868595,0</coordinates></Point></Placemark>
+<Placemark><name>国師ヶ岳</name><description>
+<![CDATA[
+<a href="kokushigatake.html">2014.07.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.672955,35.870838,0</coordinates></Point></Placemark>
+<Placemark><name>雁ヶ腹摺山</name><description>
+<![CDATA[
+<a href="gangaharasuriyama.html">2014.09.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.885044,35.686351,0</coordinates></Point></Placemark>
+<Placemark><name>小沢岳</name><description>
+<![CDATA[
+<a href="ozawadake.html">2014.09.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.762059,36.163258,0</coordinates></Point></Placemark>
+<Placemark><name>入笠山</name><description>
+<![CDATA[
+<a href="nyuukasayama.html">2014.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.171597,35.896321,0</coordinates></Point></Placemark>
+<Placemark><name>鶏冠山</name><description>
+<![CDATA[
+<a href="tosakayama.html">2014.09.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.725731,35.887108,0</coordinates></Point></Placemark>
+<Placemark><name>安達太良山</name><description>
+<![CDATA[
+<a href="adatarayama_1.html">2014.10.11</a><br />
+<a href="adatarayama2_1.html">2021.10.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.287892,37.621128,0</coordinates></Point></Placemark>
+<Placemark><name>東吾妻山</name><description>
+<![CDATA[
+<a href="adatarayama_1.html">2014.10.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.230300,37.711669,0</coordinates></Point></Placemark>
+<Placemark><name>釈迦ヶ岳</name><description>
+<![CDATA[
+<a href="shakagatake.html">2014.10.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.720924,35.562897,0</coordinates></Point></Placemark>
+<Placemark><name>足利行道山</name><description>
+<![CDATA[
+<a href="ashikagagyoudousan.html">2014.10.25</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.437439,36.377522,0</coordinates></Point></Placemark>
+<Placemark><name>石割山</name><description>
+<![CDATA[
+<a href="ishiwariyama.html">2014.12.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.901351,35.450476,0</coordinates></Point></Placemark>
+<Placemark><name>天目山</name><description>
+<![CDATA[
+<a href="toridaniyama.html">2015.01.11</a><br />
+<a href="sobatsubuyama.html">2024.02.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.058204,35.877241,0</coordinates></Point></Placemark>
+<Placemark><name>酉谷山</name><description>
+<![CDATA[
+<a href="toridaniyama.html">2015.01.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.010310,35.897103,0</coordinates></Point></Placemark>
+<Placemark><name>烏場山</name><description>
+<![CDATA[
+<a href="karasubayama.html">2015.01.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.025376,35.081405,0</coordinates></Point></Placemark>
+<Placemark><name>宝登山</name><description>
+<![CDATA[
+<a href="hodosan.html">2015.02.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.091613,36.093131,0</coordinates></Point></Placemark>
+<Placemark><name>岩戸山</name><description>
+<![CDATA[
+<a href="iwatoyama.html">2015.02.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.063590,35.125459,0</coordinates></Point></Placemark>
+<Placemark><name>源氏山</name><description>
+<![CDATA[
+<a href="genjiyama.html">2015.03.28</a><br />
+<a href="genjiyama2.html">2016.01.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.546301,35.324413,0</coordinates></Point></Placemark>
+<Placemark><name>大小山</name><description>
+<![CDATA[
+<a href="daishouyama.html">2015.04.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.517140,36.333459,0</coordinates></Point></Placemark>
+<Placemark><name>権現山</name><description>
+<![CDATA[
+<a href="gongenyama2.html">2015.05.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.025245,35.430577,0</coordinates></Point></Placemark>
+<Placemark><name>位山</name><description>
+<![CDATA[
+<a href="takayama_1.html">2015.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.196686,36.038238,0</coordinates></Point></Placemark>
+<Placemark><name>荒山</name><description>
+<![CDATA[
+<a href="arayama.html">2015.05.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.165492,36.525855,0</coordinates></Point></Placemark>
+<Placemark><name>甘利山</name><description>
+<![CDATA[
+<a href="amariyama.html">2015.06.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.376193,35.681213,0</coordinates></Point></Placemark>
+<Placemark><name>千頭星山</name><description>
+<![CDATA[
+<a href="amariyama.html">2015.06.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.354306,35.675670,0</coordinates></Point></Placemark>
+<Placemark><name>赤城山</name><description>
+<![CDATA[
+<a href="akagisan.html">2015.07.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.193248,36.560377,0</coordinates></Point></Placemark>
+<Placemark><name>木曽駒ヶ岳</name><description>
+<![CDATA[
+<a href="nagano_1.html">2015.08.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.804561,35.789560,0</coordinates></Point></Placemark>
+<Placemark><name>御在所岳</name><description>
+<![CDATA[
+<a href="nagano_1.html">2015.08.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.418009,35.020429,0</coordinates></Point></Placemark>
+<Placemark><name>宝永山</name><description>
+<![CDATA[
+<a href="houeisan.html">2015.09.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.752121,35.343695,0</coordinates></Point></Placemark>
+<Placemark><name>八甲田山</name><description>
+<![CDATA[
+<a href="aomori_1.html">2015.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.877235,40.658903,0</coordinates></Point></Placemark>
+<Placemark><name>黒川鶏冠山</name><description>
+<![CDATA[
+<a href="kurokawakeikanzan.html">2015.10.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.838788,35.789508,0</coordinates></Point></Placemark>
+<Placemark><name>南天山</name><description>
+<![CDATA[
+<a href="nantenyama.html">2015.11.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.780820,36.011243,0</coordinates></Point></Placemark>
+<Placemark><name>御堂山</name><description>
+<![CDATA[
+<a href="midouyama.html">2015.11.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.731264,36.256810,0</coordinates></Point></Placemark>
+<Placemark><name>竜ヶ岳</name><description>
+<![CDATA[
+<a href="ryuugatake.html">2015.12.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.583463,35.446792,0</coordinates></Point></Placemark>
+<Placemark><name>水沢山</name><description>
+<![CDATA[
+<a href="harunasan_1.html">2009.10.25</a><br />
+<a href="mizusawayama.html">2016.01.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.929726,36.480717,0</coordinates></Point></Placemark>
+<Placemark><name>堂平山</name><description>
+<![CDATA[
+<a href="doudairasan.html">2016.02.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.190050,36.005758,0</coordinates></Point></Placemark>
+<Placemark><name>笠山</name><description>
+<![CDATA[
+<a href="doudairasan.html">2016.02.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.189879,36.018516,0</coordinates></Point></Placemark>
+<Placemark><name>三ツ岩岳</name><description>
+<![CDATA[
+<a href="mitsuiwadake.html">2016.04.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.681686,36.143099,0</coordinates></Point></Placemark>
+<Placemark><name>大杉山</name><description>
+<![CDATA[
+<a href="oosugiyama.html">2016.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.067645,35.436233,0</coordinates></Point></Placemark>
+<Placemark><name>三原山</name><description>
+<![CDATA[
+<a href="izuooshima_1.html">2016.05.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.394456,34.724472,0</coordinates></Point></Placemark>
+<Placemark><name>長七郎山</name><description>
+<![CDATA[
+<a href="choushichirousan.html">2016.06.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.189675,36.532761,0</coordinates></Point></Placemark>
+<Placemark><name>太刀岡山</name><description>
+<![CDATA[
+<a href="tachiokayama.html">2016.07.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.540205,35.772953,0</coordinates></Point></Placemark>
+<Placemark><name>乗鞍岳</name><description>
+<![CDATA[
+<a href="norikura_1.html">2016.08.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.553613,36.106494,0</coordinates></Point></Placemark>
+<Placemark><name>大台ヶ原山</name><description>
+<![CDATA[
+<a href="oodaigaharayama.html">2016.08.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.109201,34.185239,0</coordinates></Point></Placemark>
+<Placemark><name>浅間山</name><description>
+<![CDATA[
+<a href="sengenyama.html">2016.10.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.059513,35.233461,0</coordinates></Point></Placemark>
+<Placemark><name>高谷山</name><description>
+<![CDATA[
+<a href="takataniyama.html">2016.11.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.333482,35.631842,0</coordinates></Point></Placemark>
+<Placemark><name>鹿俣山</name><description>
+<![CDATA[
+<a href="kanomatayama.html">2016.11.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.093426,36.793001,0</coordinates></Point></Placemark>
+<Placemark><name>破風山</name><description>
+<![CDATA[
+<a href="happusan.html">2016.12.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.055296,36.072868,0</coordinates></Point></Placemark>
+<Placemark><name>吾国山</name><description>
+<![CDATA[
+<a href="wagakunisan.html">2017.02.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.201093,36.321881,0</coordinates></Point></Placemark>
+<Placemark><name>清澄山</name><description>
+<![CDATA[
+<a href="kiyosumiyama.html">2017.03.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.152277,35.162271,0</coordinates></Point></Placemark>
+<Placemark><name>丸山</name><description>
+<![CDATA[
+<a href="maruyama2.html">2017.04.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.583294,36.810887,0</coordinates></Point></Placemark>
+<Placemark><name>泉ヶ岳</name><description>
+<![CDATA[
+<a href="miyagi_1.html">2017.05.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.708749,38.411983,0</coordinates></Point></Placemark>
+<Placemark><name>三方分山</name><description>
+<![CDATA[
+<a href="sanpoubunzan.html">2017.05.28</a><br />
+<a href="hirugatake2.html">2025.03.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.602604,35.504776,0</coordinates></Point></Placemark>
+<Placemark><name>鈴ヶ岳</name><description>
+<![CDATA[
+<a href="suzugatake.html">2017.09.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.151974,36.554495,0</coordinates></Point></Placemark>
+<Placemark><name>桧沢岳</name><description>
+<![CDATA[
+<a href="hisawadake.html">2017.11.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.751151,36.145320,0</coordinates></Point></Placemark>
+<Placemark><name>スカリ山</name><description>
+<![CDATA[
+<a href="yugate.html">2017.11.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.276364,35.911637,0</coordinates></Point></Placemark>
+<Placemark><name>日の出山</name><description>
+<![CDATA[
+<a href="hinodeyama.html">2017.11.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.167434,35.781235,0</coordinates></Point></Placemark>
+<Placemark><name>城山</name><description>
+<![CDATA[
+<a href="shiroyama2.html">2018.01.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.084779,35.156276,0</coordinates></Point></Placemark>
+<Placemark><name>赤久縄山</name><description>
+<![CDATA[
+<a href="akagunayama.html">2018.04.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.843326,36.143659,0</coordinates></Point></Placemark>
+<Placemark><name>根本山</name><description>
+<![CDATA[
+<a href="nemotosan.html">2018.04.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.450957,36.549737,0</coordinates></Point></Placemark>
+<Placemark><name>南木曽岳</name><description>
+<![CDATA[
+<a href="kiso_1.html">2018.05.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.643609,35.591832,0</coordinates></Point></Placemark>
+<Placemark><name>高原山</name><description>
+<![CDATA[
+<a href="takaharayama.html">2018.06.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.776667,36.900000,0</coordinates></Point></Placemark>
+<Placemark><name>磐梯山</name><description>
+<![CDATA[
+<a href="bandaisan_1.html">2018.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.072259,37.600983,0</coordinates></Point></Placemark>
+<Placemark><name>猫魔ヶ岳</name><description>
+<![CDATA[
+<a href="bandaisan_1.html">2018.09.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.028434,37.611665,0</coordinates></Point></Placemark>
+<Placemark><name>流石山</name><description>
+<![CDATA[
+<a href="mikurayama_1.html">2018.10.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.924450,37.151954,0</coordinates></Point></Placemark>
+<Placemark><name>三倉山</name><description>
+<![CDATA[
+<a href="mikurayama_1.html">2018.10.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.902826,37.157815,0</coordinates></Point></Placemark>
+<Placemark><name>鬼ヶ岳</name><description>
+<![CDATA[
+<a href="onigatake.html">2018.10.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.676576,35.519813,0</coordinates></Point></Placemark>
+<Placemark><name>赤岳</name><description>
+<![CDATA[
+<a href="akadake_1.html">2018.11.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.370208,35.970893,0</coordinates></Point></Placemark>
+<Placemark><name>菊花山</name><description>
+<![CDATA[
+<a href="kikukasan.html">2018.12.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.947933,35.608010,0</coordinates></Point></Placemark>
+<Placemark><name>津森山</name><description>
+<![CDATA[
+<a href="tsumoriyama.html">2019.01.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.932631,35.138956,0</coordinates></Point></Placemark>
+<Placemark><name>蓑山</name><description>
+<![CDATA[
+<a href="minoyama.html">2019.01.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.113007,36.057222,0</coordinates></Point></Placemark>
+<Placemark><name>秋山二十六夜山</name><description>
+<![CDATA[
+<a href="nijuurokuyasan2.html">2019.02.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.044066,35.565849,0</coordinates></Point></Placemark>
+<Placemark><name>雪入山</name><description>
+<![CDATA[
+<a href="yukiiriyama.html">2019.03.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.186111,36.175833,0</coordinates></Point></Placemark>
+<Placemark><name>唐沢山</name><description>
+<![CDATA[
+<a href="suwadake.html">2019.03.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.600943,36.353746,0</coordinates></Point></Placemark>
+<Placemark><name>諏訪岳</name><description>
+<![CDATA[
+<a href="suwadake.html">2019.03.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.617220,36.373889,0</coordinates></Point></Placemark>
+<Placemark><name>浜石岳</name><description>
+<![CDATA[
+<a href="hamaishidake.html">2019.03.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.533333,35.120000,0</coordinates></Point></Placemark>
+<Placemark><name>兜山</name><description>
+<![CDATA[
+<a href="kabutoyama.html">2019.04.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.633127,35.692457,0</coordinates></Point></Placemark>
+<Placemark><name>石鎚山</name><description>
+<![CDATA[
+<a href="shikoku2_1.html">2019.05.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>133.115089,33.767760,0</coordinates></Point></Placemark>
+<Placemark><name>西赤石山</name><description>
+<![CDATA[
+<a href="shikoku2_1.html">2019.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>133.339627,33.875587,0</coordinates></Point></Placemark>
+<Placemark><name>鍋割山</name><description>
+<![CDATA[
+<a href="nabewariyama3.html">2019.05.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.143331,36.511673,0</coordinates></Point></Placemark>
+<Placemark><name>笠ヶ岳</name><description>
+<![CDATA[
+<a href="shigakougen_1.html">2019.08.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.481613,36.676612,0</coordinates></Point></Placemark>
+<Placemark><name>赤石山</name><description>
+<![CDATA[
+<a href="shigakougen_1.html">2019.08.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.543436,36.703792,0</coordinates></Point></Placemark>
+<Placemark><name>茶臼山</name><description>
+<![CDATA[
+<a href="chausuyama.html">2019.09.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.126941,36.204114,0</coordinates></Point></Placemark>
+<Placemark><name>地蔵岳</name><description>
+<![CDATA[
+<a href="jizoudake.html">2019.10.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.177350,36.541020,0</coordinates></Point></Placemark>
+<Placemark><name>大栃山</name><description>
+<![CDATA[
+<a href="ootochiyama.html">2019.10.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.699854,35.580841,0</coordinates></Point></Placemark>
+<Placemark><name>七ツ石山</name><description>
+<![CDATA[
+<a href="nanatsuishiyama.html">2019.11.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.961816,35.829731,0</coordinates></Point></Placemark>
+<Placemark><name>曲岳</name><description>
+<![CDATA[
+<a href="kurofuji.html">2019.11.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.536108,35.802942,0</coordinates></Point></Placemark>
+<Placemark><name>黒富士</name><description>
+<![CDATA[
+<a href="kurofuji.html">2019.11.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.553262,35.797627,0</coordinates></Point></Placemark>
+<Placemark><name>宝篋山</name><description>
+<![CDATA[
+<a href="houkyousan.html">2020.01.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.130057,36.167508,0</coordinates></Point></Placemark>
+<Placemark><name>玄岳</name><description>
+<![CDATA[
+<a href="kurotake.html">2020.01.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.028103,35.081688,0</coordinates></Point></Placemark>
+<Placemark><name>元清澄山</name><description>
+<![CDATA[
+<a href="motokiyosumiyama.html">2020.02.24</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.096006,35.175277,0</coordinates></Point></Placemark>
+<Placemark><name>赤雪山</name><description>
+<![CDATA[
+<a href="senningatake2.html">2020.03.15</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.425726,36.438354,0</coordinates></Point></Placemark>
+<Placemark><name>飯縄山</name><description>
+<![CDATA[
+<a href="iidunakougen_1.html">2020.08.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.133694,36.739548,0</coordinates></Point></Placemark>
+<Placemark><name>黒姫山</name><description>
+<![CDATA[
+<a href="iidunakougen_1.html">2020.08.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.127139,36.813512,0</coordinates></Point></Placemark>
+<Placemark><name>菰釣山</name><description>
+<![CDATA[
+<a href="komotsurushiyama.html">2020.09.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.978523,35.463774,0</coordinates></Point></Placemark>
+<Placemark><name>恵那山</name><description>
+<![CDATA[
+<a href="enasan.html">2020.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.597918,35.443071,0</coordinates></Point></Placemark>
+<Placemark><name>鹿倉山</name><description>
+<![CDATA[
+<a href="shishikurayama.html">2020.10.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.949739,35.770370,0</coordinates></Point></Placemark>
+<Placemark><name>横尾山</name><description>
+<![CDATA[
+<a href="yokooyama.html">2020.10.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.521077,35.918824,0</coordinates></Point></Placemark>
+<Placemark><name>御場山</name><description>
+<![CDATA[
+<a href="onbayama.html">2020.11.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.638996,36.264915,0</coordinates></Point></Placemark>
+<Placemark><name>本仁田山</name><description>
+<![CDATA[
+<a href="kawanoriyama2.html">2020.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.101864,35.830067,0</coordinates></Point></Placemark>
+<Placemark><name>貫ヶ岳</name><description>
+<![CDATA[
+<a href="kangatake.html">2020.11.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.480289,35.196252,0</coordinates></Point></Placemark>
+<Placemark><name>岩櫃山</name><description>
+<![CDATA[
+<a href="iwabitsuyama.html">2020.12.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.796224,36.556945,0</coordinates></Point></Placemark>
+<Placemark><name>御正体山</name><description>
+<![CDATA[
+<a href="mishoutaiyama.html">2020.12.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.931579,35.486996,0</coordinates></Point></Placemark>
+<Placemark><name>八経ヶ岳</name><description>
+<![CDATA[
+<a href="hakkyougatake_1.html">2021.02.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.907536,34.173577,0</coordinates></Point></Placemark>
+<Placemark><name>三峰山</name><description>
+<![CDATA[
+<a href="hakkyougatake_1.html">2021.02.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.206281,34.448707,0</coordinates></Point></Placemark>
+<Placemark><name>四ツ又山</name><description>
+<![CDATA[
+<a href="kanatake.html">2008.01.13</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.737422,36.199469,0</coordinates></Point></Placemark>
+<Placemark><name>男抱山</name><description>
+<![CDATA[
+<a href="otadakiyama.html">2021.04.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.829757,36.645744,0</coordinates></Point></Placemark>
+<Placemark><name>立処山</name><description>
+<![CDATA[
+<a href="tatoroyama.html">2021.04.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.823889,36.087500,0</coordinates></Point></Placemark>
+<Placemark><name>帯那山</name><description>
+<![CDATA[
+<a href="obinayama.html">2021.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.594857,35.737711,0</coordinates></Point></Placemark>
+<Placemark><name>谷急山</name><description>
+<![CDATA[
+<a href="yakyuusan.html">2021.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.699023,36.303970,0</coordinates></Point></Placemark>
+<Placemark><name>六ツ石山</name><description>
+<![CDATA[
+<a href="mutsuishiyama.html">2021.05.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.046488,35.817413,0</coordinates></Point></Placemark>
+<Placemark><name>猫越岳</name><description>
+<![CDATA[
+<a href="izu_1.html">2021.07.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.863803,34.857938,0</coordinates></Point></Placemark>
+<Placemark><name>秋田駒ヶ岳</name><description>
+<![CDATA[
+<a href="iwateakita_1.html">2021.08.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.799408,39.761097,0</coordinates></Point></Placemark>
+<Placemark><name>八幡平</name><description>
+<![CDATA[
+<a href="iwateakita_1.html">2021.08.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.854104,39.957805,0</coordinates></Point></Placemark>
+<Placemark><name>岩手山</name><description>
+<![CDATA[
+<a href="iwateakita_1.html">2021.08.05</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>141.001141,39.852583,0</coordinates></Point></Placemark>
+<Placemark><name>秋田焼山</name><description>
+<![CDATA[
+<a href="iwateakita_1.html">2021.08.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.757108,39.963791,0</coordinates></Point></Placemark>
+<Placemark><name>石尊山</name><description>
+<![CDATA[
+<a href="sekisonsan.html">2021.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.524004,36.377070,0</coordinates></Point></Placemark>
+<Placemark><name>吾妻小富士</name><description>
+<![CDATA[
+<a href="adatarayama2_1.html">2021.10.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.263592,37.722143,0</coordinates></Point></Placemark>
+<Placemark><name>熊倉山</name><description>
+<![CDATA[
+<a href="kumakurayama.html">2021.11.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.991195,35.924737,0</coordinates></Point></Placemark>
+<Placemark><name>日連山</name><description>
+<![CDATA[
+<a href="hidurealps.html">2021.12.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.171844,35.606209,0</coordinates></Point></Placemark>
+<Placemark><name>富士見岳</name><description>
+<![CDATA[
+<a href="fujimidake.html">2022.01.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.398123,35.122155,0</coordinates></Point></Placemark>
+<Placemark><name>赤ぼっこ山</name><description>
+<![CDATA[
+<a href="akabokkoyama.html">2022.02.06</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.238234,35.769118,0</coordinates></Point></Placemark>
+<Placemark><name>三峰山</name><description>
+<![CDATA[
+<a href="mitsuminesan.html">2022.02.27</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.621215,36.461198,0</coordinates></Point></Placemark>
+<Placemark><name>茶臼山</name><description>
+<![CDATA[
+<a href="chausuyama2.html">2022.03.20</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.326292,36.378279,0</coordinates></Point></Placemark>
+<Placemark><name>伯耆大山</name><description>
+<![CDATA[
+<a href="daisen_1.html">2022.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>133.539977,35.371083,0</coordinates></Point></Placemark>
+<Placemark><name>蒜山</name><description>
+<![CDATA[
+<a href="daisen_1.html">2022.05.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>133.663648,35.324978,0</coordinates></Point></Placemark>
+<Placemark><name>日留賀岳</name><description>
+<![CDATA[
+<a href="hirugatake.html">2022.05.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.793100,37.038923,0</coordinates></Point></Placemark>
+<Placemark><name>浅間山（前掛山）</name><description>
+<![CDATA[
+<a href="asamayama.html">2022.08.19</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.513265,36.403859,0</coordinates></Point></Placemark>
+<Placemark><name>王岳</name><description>
+<![CDATA[
+<a href="oudake.html">2022.10.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.644882,35.513285,0</coordinates></Point></Placemark>
+<Placemark><name>天祖山</name><description>
+<![CDATA[
+<a href="tensosan.html">2022.12.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.989850,35.864495,0</coordinates></Point></Placemark>
+<Placemark><name>太田金山</name><description>
+<![CDATA[
+<a href="ootakanayama.html">2023.01.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.377662,36.317570,0</coordinates></Point></Placemark>
+<Placemark><name>雨巻山</name><description>
+<![CDATA[
+<a href="amamakiyama.html">2023.02.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.142760,36.417225,0</coordinates></Point></Placemark>
+<Placemark><name>物語山</name><description>
+<![CDATA[
+<a href="monogatariyama.html">2023.05.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.694415,36.226145,0</coordinates></Point></Placemark>
+<Placemark><name>守屋山</name><description>
+<![CDATA[
+<a href="moriyasan.html">2023.06.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.093399,35.967540,0</coordinates></Point></Placemark>
+<Placemark><name>御前ヶ遊窟</name><description>
+<![CDATA[
+<a href="gozengayuukutsu_1.html">2023.06.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.517001,37.532135,0</coordinates></Point></Placemark>
+<Placemark><name>赤薙山</name><description>
+<![CDATA[
+<a href="nyohousan2.html">2023.07.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.569176,36.809151,0</coordinates></Point></Placemark>
+<Placemark><name>尾瀬笠ヶ岳</name><description>
+<![CDATA[
+<a href="ozekasagatake.html">2023.08.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.153374,36.873304,0</coordinates></Point></Placemark>
+<Placemark><name>鷲羽岳</name><description>
+<![CDATA[
+<a href="suishoudake_1.html">2023.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.605462,36.403017,0</coordinates></Point></Placemark>
+<Placemark><name>水晶岳</name><description>
+<![CDATA[
+<a href="suishoudake_1.html">2023.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.602773,36.426337,0</coordinates></Point></Placemark>
+<Placemark><name>三俣蓮華岳</name><description>
+<![CDATA[
+<a href="suishoudake_1.html">2023.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.587667,36.390007,0</coordinates></Point></Placemark>
+<Placemark><name>双六岳</name><description>
+<![CDATA[
+<a href="suishoudake_1.html">2023.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.587109,36.371902,0</coordinates></Point></Placemark>
+<Placemark><name>天丸山</name><description>
+<![CDATA[
+<a href="choudukeyama.html">2023.11.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.768096,36.041829,0</coordinates></Point></Placemark>
+<Placemark><name>帳付山</name><description>
+<![CDATA[
+<a href="choudukeyama.html">2023.11.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.754406,36.034538,0</coordinates></Point></Placemark>
+<Placemark><name>越上山</name><description>
+<![CDATA[
+<a href="kanhasshuumiharashidai2.html">2024.01.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.254532,35.925188,0</coordinates></Point></Placemark>
+<Placemark><name>蕎麦粒山</name><description>
+<![CDATA[
+<a href="sobatsubuyama.html">2024.02.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.087378,35.872201,0</coordinates></Point></Placemark>
+<Placemark><name>両崖山</name><description>
+<![CDATA[
+<a href="ryougaisan.html">2024.03.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.447746,36.353499,0</coordinates></Point></Placemark>
+<Placemark><name>碧岩</name><description>
+<![CDATA[
+<a href="midoriiwa.html">2024.03.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.637762,36.149796,0</coordinates></Point></Placemark>
+<Placemark><name>沢入山</name><description>
+<![CDATA[
+<a href="souriyama.html">2024.04.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.394252,36.687005,0</coordinates></Point></Placemark>
+<Placemark><name>粟ヶ岳</name><description>
+<![CDATA[
+<a href="niigata2_1.html">2024.04.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.188777,37.555114,0</coordinates></Point></Placemark>
+<Placemark><name>弥彦山</name><description>
+<![CDATA[
+<a href="niigata2_1.html">2024.04.29</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.808968,37.704778,0</coordinates></Point></Placemark>
+<Placemark><name>戸神山</name><description>
+<![CDATA[
+<a href="shibutsusan2_1.html">2024.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.055253,36.682042,0</coordinates></Point></Placemark>
+<Placemark><name>鉱石山</name><description>
+<![CDATA[
+<a href="shibutsusan2_1.html">2024.05.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.122269,36.735575,0</coordinates></Point></Placemark>
+<Placemark><name>丹後山</name><description>
+<![CDATA[
+<a href="nakanodake_1.html">2024.06.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.091411,37.046504,0</coordinates></Point></Placemark>
+<Placemark><name>妙法ヶ岳</name><description>
+<![CDATA[
+<a href="myouhougatake.html">2024.11.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.947572,35.917967,0</coordinates></Point></Placemark>
+<Placemark><name>高岩</name><description>
+<![CDATA[
+<a href="takaiwa.html">2024.11.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.677107,36.302281,0</coordinates></Point></Placemark>
+<Placemark><name>鶏岳</name><description>
+<![CDATA[
+<a href="niwatoridake.html">2024.12.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.763763,36.798017,0</coordinates></Point></Placemark>
+<Placemark><name>毘沙門山</name><description>
+<![CDATA[
+<a href="niwatoridake.html">2024.12.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.690137,36.752942,0</coordinates></Point></Placemark>
+<Placemark><name>石尊山</name><description>
+<![CDATA[
+<a href="sekisonsan2.html">2025.01.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.145721,35.214736,0</coordinates></Point></Placemark>
+<Placemark><name>大蔵経寺山</name><description>
+<![CDATA[
+<a href="daizoukyoujiyama.html">2025.02.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.626015,35.668857,0</coordinates></Point></Placemark>
+<Placemark><name>要害山</name><description>
+<![CDATA[
+<a href="daizoukyoujiyama.html">2025.02.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.598366,35.703084,0</coordinates></Point></Placemark>
+<Placemark><name>高山</name><description>
+<![CDATA[
+<a href="takayama2.html">2025.02.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.317842,35.051060,0</coordinates></Point></Placemark>
+<Placemark><name>不動山</name><description>
+<![CDATA[
+<a href="sogakyuuryou.html">2025.03.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.197862,35.316360,0</coordinates></Point></Placemark>
+<Placemark><name>蛾ヶ岳</name><description>
+<![CDATA[
+<a href="hirugatake2.html">2025.03.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.535593,35.519035,0</coordinates></Point></Placemark>
+<Placemark><name>黒味岳</name><description>
+<![CDATA[
+<a href="yakushima_1.html">2025.04.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.508347,30.317427,0</coordinates></Point></Placemark>
+<Placemark><name>宮之浦岳</name><description>
+<![CDATA[
+<a href="yakushima_1.html">2025.04.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.504103,30.336065,0</coordinates></Point></Placemark>
+<Placemark><name>永田岳</name><description>
+<![CDATA[
+<a href="yakushima_1.html">2025.04.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.492430,30.342880,0</coordinates></Point></Placemark>
+<Placemark><name>モッチョム岳</name><description>
+<![CDATA[
+<a href="yakushima_1.html">2025.05.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>130.564186,30.256677,0</coordinates></Point></Placemark>
+<Placemark><name>源氏山</name><description>
+<![CDATA[
+<a href="genjiyama3.html">2025.06.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.364885,35.546500,0</coordinates></Point></Placemark>
+<Placemark><name>雨乞岳</name><description>
+<![CDATA[
+<a href="amagoidake.html">2025.07.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.235610,35.826327,0</coordinates></Point></Placemark>
+<Placemark><name>竜爪山</name><description>
+<![CDATA[
+<a href="ryuusouzan.html">2025.07.26</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.400880,35.084210,0</coordinates></Point></Placemark>
+<Placemark><name>薬師岳</name><description>
+<![CDATA[
+<a href="tateyamarenpou_1.html">2025.08.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.544790,36.468865,0</coordinates></Point></Placemark>
+<Placemark><name>越中沢岳</name><description>
+<![CDATA[
+<a href="tateyamarenpou_1.html">2025.08.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.583012,36.515020,0</coordinates></Point></Placemark>
+<Placemark><name>剱岳</name><description>
+<![CDATA[
+<a href="tateyamarenpou_1.html">2025.08.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.617205,36.623342,0</coordinates></Point></Placemark>
+<Placemark><name>奥大日岳</name><description>
+<![CDATA[
+<a href="tateyamarenpou_1.html">2025.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.576380,36.599646,0</coordinates></Point></Placemark>
+<Placemark><name>大日岳</name><description>
+<![CDATA[
+<a href="tateyamarenpou_1.html">2025.08.17</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.549601,36.599750,0</coordinates></Point></Placemark>
+<Placemark><name>上塚</name><description>
+<![CDATA[
+<a href="futatsuduka.html">2025.09.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.772323,35.334707,0</coordinates></Point></Placemark>
+<Placemark><name>黒檜岳</name><description>
+<![CDATA[
+<a href="kurobidake.html">2025.09.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.411779,36.724367,0</coordinates></Point></Placemark>
+<Placemark><name>三国山</name><description>
+<![CDATA[
+<a href="daigentasan.html">2025.11.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.827717,36.772251,0</coordinates></Point></Placemark>
+<Placemark><name>大源太山</name><description>
+<![CDATA[
+<a href="daigentasan.html">2025.11.02</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.833756,36.794268,0</coordinates></Point></Placemark>
+<Placemark><name>父不見山</name><description>
+<![CDATA[
+<a href="tetemiezuyama.html">2025.11.16</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.916365,36.094040,0</coordinates></Point></Placemark>
+<Placemark><name>五郎山</name><description>
+<![CDATA[
+<a href="gorouyama.html">2025.11.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.696785,35.940760,0</coordinates></Point></Placemark>
+<Placemark><name>都留アルプス山</name><description>
+<![CDATA[
+<a href="tsurualps.html">2025.12.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.901112,35.530986,0</coordinates></Point></Placemark>
+<Placemark><name>釜ノ沢五ノ峰</name><description>
+<![CDATA[
+<a href="oganoalps.html">2025.12.28</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.003022,35.989980,0</coordinates></Point></Placemark>
+<Placemark><name>竜門岳</name><description>
+<![CDATA[
+<a href="kongousan_1.html">2025.12.30</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.897689,34.440674,0</coordinates></Point></Placemark>
+<Placemark><name>大和葛城山</name><description>
+<![CDATA[
+<a href="kongousan_1.html">2025.12.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.682290,34.456200,0</coordinates></Point></Placemark>
+<Placemark><name>金剛山</name><description>
+<![CDATA[
+<a href="kongousan_1.html">2025.12.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.672961,34.419421,0</coordinates></Point></Placemark>
+</Document>
+</kml>

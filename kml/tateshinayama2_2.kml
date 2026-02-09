@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>ルート</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/se.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>L</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        138.057449,36.166698,0.000000
+        138.058823,36.165562,0.000000
+        138.060745,36.164761,0.000000
+        138.060974,36.163795,0.000000
+        138.060379,36.163311,0.000000
+        138.059139,36.163056,0.000000
+        138.058273,36.162098,0.000000
+        138.059139,36.163056,0.000000
+        138.060379,36.163277,0.000000
+        138.060974,36.163864,0.000000
+        138.060745,36.164761,0.000000
+        138.058823,36.165562,0.000000
+        138.057449,36.166698,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SE</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>138.057449,36.166698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>L</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        138.037796,36.134617,0.000000
+        138.038269,36.134373,0.000000
+        138.038788,36.133228,0.000000
+        138.040329,36.132122,0.000000
+        138.038788,36.133228,0.000000
+        138.038269,36.134373,0.000000
+        138.037796,36.134617,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SE</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>138.037796,36.134617,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

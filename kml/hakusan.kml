@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ルート</name>
+		<Placemark>
+			<styleUrl>#line-000000-1</styleUrl>
+			<name>L</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					139.3050528,35.471715,0.0
+					139.3035936,35.47175,0.0
+					139.3015337,35.4723441,0.0
+					139.2996883,35.472449,0.0
+					139.2985725,35.4723441,0.0
+					139.298528,35.471611,0.0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-ci-1</styleUrl>
+			<name>SE</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3050528,35.471715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-ci-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+			        <href>http://bootselector.goraikou.com/icon/se.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-000000-1'>
+			<LineStyle>
+				<color>730000FF</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

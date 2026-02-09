@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>ルート</name>
+  <description><![CDATA[]]></description>
+  <Style id="style1">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/se.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>L</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        138.291519,36.121201,0.000000
+        138.292160,36.119019,0.000000
+        138.292587,36.117493,0.000000
+        138.292587,36.116074,0.000000
+        138.293274,36.113956,0.000000
+        138.294952,36.111843,0.000000
+        138.297180,36.109726,0.000000
+        138.299194,36.107994,0.000000
+        138.296616,36.105671,0.000000
+        138.295028,36.103722,0.000000
+        138.296616,36.105671,0.000000
+        138.299194,36.107994,0.000000
+        138.297180,36.109726,0.000000
+        138.294952,36.111843,0.000000
+        138.293274,36.113956,0.000000
+        138.292587,36.116074,0.000000
+        138.292587,36.117493,0.000000
+        138.292160,36.119019,0.000000
+        138.291519,36.121201,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SE</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>138.291519,36.121201,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

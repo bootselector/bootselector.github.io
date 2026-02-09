@@ -1,0 +1,20 @@
+.all-box { margin:0 auto; width:960px; }
+.title { color:#001e43; font-weight:bold; font-size:200%; text-align:center; margin:15px 0px 10px 0px; }
+.home { text-align:center; margin:20px 0px; }
+a img { border-style:none; }
+.record { width:100%; border-collapse:separate; border-spacing:0px; border-top:1px solid #6c9bd2; border-left:1px solid #6c9bd2; empty-cells:show; font-size:90%; line-height:1.2; }
+.record th { padding:4px 2px 2px 4px; text-align:left;vertical-align:top;color:#FFFFFF; background-color:#6c9bd2; border-top:1px solid #e8ece9;border-left:1px solid #e8ece9; border-right:1px solid #26499d;border-bottom:1px solid #26499d; }
+.record td { padding:4px 2px 2px 4px; background-color:#ffffff; border-right:1px solid #6c9bd2; border-bottom:1px solid #6c9bd2; }
+#notitle { text-align:center; }
+.no { width:35px; font-weight:bold; text-align:center; }
+.picture { width:200px; vertical-align:top; }
+.picture2 { width:260px; vertical-align:top; }
+.location { width:150px; vertical-align:top; }
+.difficulty { width:50px; vertical-align:top; }
+.count { width:50px; vertical-align:top; }
+.date { width:100px; vertical-align:top; }
+.comment { vertical-align:top; }
+.distance { width:40px; vertical-align:top; }
+.direction { width:50px; vertical-align:top; }
+.height { width:40px; vertical-align:top; }
+.explanation td { padding-top:2px 0px; }

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>ルート</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <LineStyle>
+      <color>730000FF</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://bootselector.goraikou.com/icon/se.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>L</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        140.267548,36.919258,0.000000
+        140.268112,36.920391,0.000000
+        140.269440,36.921764,0.000000
+        140.270340,36.921936,0.000000
+        140.271194,36.921043,0.000000
+        140.272491,36.920666,0.000000
+        140.273743,36.921181,0.000000
+        140.274292,36.922314,0.000000
+        140.274765,36.922829,0.000000
+        140.275146,36.923958,0.000000
+        140.274887,36.924713,0.000000
+        140.274078,36.925606,0.000000
+        140.273438,36.926533,0.000000
+        140.272705,36.927254,0.000000
+        140.271622,36.928112,0.000000
+        140.272354,36.929276,0.000000
+        140.272972,36.930139,0.000000
+        140.272354,36.929276,0.000000
+        140.271622,36.928112,0.000000
+        140.270935,36.927391,0.000000
+        140.269562,36.926086,0.000000
+        140.268158,36.925194,0.000000
+        140.267502,36.923889,0.000000
+        140.267075,36.922897,0.000000
+        140.267288,36.921078,0.000000
+        140.267288,36.920322,0.000000
+        140.267166,36.919636,0.000000
+        140.267548,36.919258,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>SE</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>140.267548,36.919258,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

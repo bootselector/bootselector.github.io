@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ルート</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>無題のレイヤ</name>
+			<Placemark>
+				<styleUrl>#line-DB4436-2</styleUrl>
+				<name>L</name>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						138.7365532,35.5595322,0.0
+						138.7364244,35.5613476,0.0
+						138.7365532,35.5628488,0.0
+						138.734622,35.5633375,0.0
+						138.7333775,35.5634771,0.0
+						138.7318754,35.564315,0.0
+						138.7303734,35.5647688,0.0
+						138.7283134,35.5641055,0.0
+						138.7261677,35.5641404,0.0
+						138.7242794,35.563931,0.0
+						138.7225199,35.5636517,0.0
+						138.720924,35.562897,0.0
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-ci-1</styleUrl>
+				<name>SE</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>138.7365532,35.5595322,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-ci-1'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+			        <href>http://bootselector.goraikou.com/icon/se.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-DB4436-2'>
+			<LineStyle>
+		      <color>730000FF</color>
+		      <width>3</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

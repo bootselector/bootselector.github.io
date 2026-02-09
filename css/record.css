@@ -1,0 +1,16 @@
+body { background-color:#f0f0f0; line-height:1.1; }
+.all-box { margin:0 auto; width:800px; border:1px solid gray; background-color:white; }
+.contents { margin:10px; }
+.title { font-size:200%; font-weight:bold; margin:20px 0px; }
+.data { width:100%; border-collapse:collapse; margin-bottom:20px; line-height:1.2; }
+.data th { width:100px; border:1px solid #8da0b6; font-weight:bold; text-align:left; padding:4px; border-left:4px solid #8da0b6; vertical-align:top; }
+.data td { border:1px solid #8da0b6; padding:4px; }
+.prevnext { margin: 10px 0px 10px 0px; }
+.pnbtn { margin-right: 5px; }
+.others { font-weight:bold; }
+.others-record { margin-left:5px; }
+.course th { border:0px; vertical-align:top; text-align:left; font-weight:normal; width:50px; padding:1px; }
+.course td { border:0px; padding:1px; }
+.home { margin:10px 0px 10px 0px; }
+a img { border-style:none; }
+.map { font-weight:normal;}

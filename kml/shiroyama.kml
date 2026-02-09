@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ルート</name>
+	<Style id='icon-ci-1-nodesc'>
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+		        <href>http://bootselector.goraikou.com/icon/se.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id='line-000000-1200-nodesc'>
+		<LineStyle>
+			<color>730000FF</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+    <Placemark>
+      <name>L</name>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          139.2702055,35.6324653,0
+          139.267416,35.6306515,0
+          139.267416,35.6291516,0
+          139.2631674,35.6291167,0
+          139.2606354,35.6271982,0
+          139.2579746,35.6273028,0
+          139.2572021,35.6256634,0
+          139.255228,35.6255936,0
+          139.252739,35.623675,0
+          139.2523956,35.6223843,0
+          139.2489195,35.6212679,0
+          139.244113,35.6221749,0
+          139.2432547,35.6238494,0
+          139.2404652,35.624861,0
+          139.2361307,35.6258727,0
+          139.2284489,35.6262564,0
+          139.2229986,35.6282796,0
+          139.221167,35.629861,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SE</name>
+      <styleUrl>#icon-ci-1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          139.2702055,35.6324653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

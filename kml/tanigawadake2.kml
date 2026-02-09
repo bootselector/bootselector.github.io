@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>2017/08/27 午前8:18:14</name>
+    <description></description>
+    <atom:author>
+      <atom:name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</atom:name>
+    </atom:author>
+    <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2017-08-26T23:18:14.524Z</when>
+    </TimeStamp>
+	<Style id='icon-ci-1-nodesc'>
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+		        <href>http://bootselector.goraikou.com/icon/se.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+    <Style id="track">
+      <LineStyle>
+        <color>730000FF</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>SE</name>
+      <styleUrl>#icon-ci-1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          138.94989,36.817951,1361.2
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="tour">
+      <name>2017/08/27 午前8:18:14</name>
+      <description></description>
+      <atom:author>
+        <atom:name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</atom:name>
+      </atom:author>
+      <atom:link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="activity">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <TimeSpan>
+        <begin>2017-08-26T23:18:14.524Z</begin>
+        <end>2017-08-27T05:13:22.773Z</end>
+      </TimeSpan>
+      <styleUrl>#track</styleUrl>
+      <gx:MultiTrack>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:interpolate>0</gx:interpolate>
+        <gx:Track>
+          <gx:coord>138.94989 36.817951 1361.2</gx:coord>
+          <when>2017-08-26T23:18:19.273Z</when>
+          <gx:coord>138.947876 36.819141 1393.3</gx:coord>
+          <when>2017-08-26T23:24:49.000Z</when>
+          <gx:coord>138.945938 36.820065 1443.9</gx:coord>
+          <when>2017-08-26T23:33:20.000Z</when>
+          <gx:coord>138.943512 36.82024 1441.4</gx:coord>
+          <when>2017-08-26T23:39:50.000Z</when>
+          <gx:coord>138.941483 36.821465 1507.9</gx:coord>
+          <when>2017-08-26T23:46:47.250Z</when>
+          <gx:coord>138.939423 36.822517 1499.5</gx:coord>
+          <when>2017-08-26T23:54:19.253Z</when>
+          <gx:coord>138.93692 36.823105 1516.7</gx:coord>
+          <when>2017-08-27T00:01:48.257Z</when>
+          <gx:coord>138.93515 36.824364 1552.7</gx:coord>
+          <when>2017-08-27T00:11:57.258Z</when>
+          <gx:coord>138.933868 36.825901 1630.2</gx:coord>
+          <when>2017-08-27T00:28:28.246Z</when>
+          <gx:coord>138.932968 36.828629 1329.2</gx:coord>
+          <when>2017-08-27T00:42:32.000Z</when>
+          <gx:coord>138.930954 36.82959 1765.9</gx:coord>
+          <when>2017-08-27T01:02:00.285Z</when>
+          <gx:coord>138.930634 36.831455 1879.8</gx:coord>
+          <when>2017-08-27T01:23:03.270Z</when>
+          <gx:coord>138.930054 36.83329 1966.2</gx:coord>
+          <when>2017-08-27T01:41:01.278Z</when>
+          <gx:coord>138.930679 36.831352 1880</gx:coord>
+          <when>2017-08-27T02:54:50.282Z</when>
+          <gx:coord>138.931244 36.829414 1776.8</gx:coord>
+          <when>2017-08-27T03:05:00.298Z</when>
+          <gx:coord>138.933167 36.827652 1682.3</gx:coord>
+          <when>2017-08-27T03:13:02.000Z</when>
+          <gx:coord>138.934036 36.82592 1637.2</gx:coord>
+          <when>2017-08-27T03:22:01.303Z</when>
+          <gx:coord>138.935074 36.824287 1569.9</gx:coord>
+          <when>2017-08-27T03:33:07.354Z</when>
+          <gx:coord>138.936859 36.823071 1484.1</gx:coord>
+          <when>2017-08-27T03:49:37.000Z</when>
+          <gx:coord>138.939178 36.822773 1467.5</gx:coord>
+          <when>2017-08-27T03:55:07.310Z</when>
+          <gx:coord>138.941254 36.821602 1518.1</gx:coord>
+          <when>2017-08-27T04:05:31.312Z</when>
+          <gx:coord>138.943451 36.820408 1431.4</gx:coord>
+          <when>2017-08-27T04:11:30.314Z</when>
+          <gx:coord>138.945786 36.820107 1423.1</gx:coord>
+          <when>2017-08-27T04:16:32.000Z</when>
+          <gx:coord>138.947784 36.81913 1377.6</gx:coord>
+          <when>2017-08-27T04:25:23.000Z</when>
+          <gx:coord>138.949493 36.817917 1338</gx:coord>
+          <when>2017-08-27T04:31:23.319Z</when>
+          <ExtendedData>
+            <SchemaData schemaUrl="#geotrackerTrackSchema">
+              <gx:SimpleArrayData name="speed">
+                <gx:value />
+                <gx:value>0.25</gx:value>
+                <gx:value>0.25</gx:value>
+                <gx:value>0.75</gx:value>
+                <gx:value>1.12</gx:value>
+                <gx:value>0.9</gx:value>
+                <gx:value>1.25</gx:value>
+                <gx:value>0.56</gx:value>
+                <gx:value>0.56</gx:value>
+                <gx:value>0.5</gx:value>
+                <gx:value>1</gx:value>
+                <gx:value>1.03</gx:value>
+                <gx:value>1.25</gx:value>
+                <gx:value>0.56</gx:value>
+                <gx:value>0.9</gx:value>
+                <gx:value>1.25</gx:value>
+                <gx:value>1.12</gx:value>
+                <gx:value>0.56</gx:value>
+                <gx:value>1</gx:value>
+                <gx:value>2.61</gx:value>
+                <gx:value>0.9</gx:value>
+                <gx:value>1.8</gx:value>
+                <gx:value>0.25</gx:value>
+                <gx:value>1</gx:value>
+                <gx:value>0.25</gx:value>
+              </gx:SimpleArrayData>
+              <gx:SimpleArrayData name="course">
+                <gx:value />
+                <gx:value>359.1</gx:value>
+                <gx:value>253</gx:value>
+                <gx:value>247.2</gx:value>
+                <gx:value>305.6</gx:value>
+                <gx:value>355.8</gx:value>
+                <gx:value>350.6</gx:value>
+                <gx:value>344</gx:value>
+                <gx:value>330.3</gx:value>
+                <gx:value>31.6</gx:value>
+                <gx:value />
+                <gx:value>69.7</gx:value>
+                <gx:value>136.3</gx:value>
+                <gx:value>184.9</gx:value>
+                <gx:value>217.8</gx:value>
+                <gx:value>129</gx:value>
+                <gx:value>134.2</gx:value>
+                <gx:value>313.5</gx:value>
+                <gx:value>101.6</gx:value>
+                <gx:value>164.5</gx:value>
+                <gx:value>356.4</gx:value>
+                <gx:value>159.1</gx:value>
+                <gx:value>49.8</gx:value>
+                <gx:value>107.7</gx:value>
+                <gx:value>110.8</gx:value>
+              </gx:SimpleArrayData>
+            </SchemaData>
+          </ExtendedData>
+        </gx:Track>
+      </gx:MultiTrack>
+    </Placemark>
+  </Document>
+</kml>

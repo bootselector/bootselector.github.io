@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>当サイトについて - 山ときどき旅</title>
+<link href="css/common.css" type="text/css" rel="stylesheet" />
+<link href="css/about.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class=all-box>
+<div class=title>当サイトについて</div>
+<hr />
+<div class=chapter><span class=square>■</span>リンク</div>
+<div class=contents>
+当サイトはリンクフリーです。トップページ以外にリンクを張っていただいても問題ありませんが、ページ名を変更することがあるため、リンク切れになる可能性があります。<br />
+現在、相互リンクは受け付けていません。<br />
+バナーは以下の画像を使ってください。
+<div class=banner>
+<span><img src="icon/banner1.jpg" width=200 height=40 alt="バナー大" /></span>
+<span><img src="icon/banner2.jpg" width=88 height=31 alt="バナー小" /></span>
+</div>
+</div>
+<div class=chapter><span class=square>■</span>注意事項</div>
+<div class=contents>
+山行記録に到着時刻を記載していますが、歩行速度は同行メンバー、気象状況などにより大きく異なります。また、登山道の状況、登山口へのアクセス、宿泊地の状況などは当時と現在で異なっている可能性がありますので、参考にする際は注意してください。<br />
+登山・海外旅行は危険を伴うものです。自己責任のもと、注意して行ってください。
+</div>
+<div class=chapter><span class=square>■</span>連絡先</div>
+<div class=contents>
+指摘、コメント等がありましたら、下記まで連絡をお願いします。<br />
+<span id=to class=to></span>
+<script>
+<!--
+var n = 100;
+var a = document.createElement("a");
+var b = "bootselector" + String.fromCharCode(n-36) + "yahoo";
+b +=  String.fromCharCode(n-54) + "co" + String.fromCharCode(n-54) + "jp"
+a.href = "ma" + String.fromCharCode(n+5) + "lt" + String.fromCharCode(n+11) + String.fromCharCode(n-42) + b;
+a.appendChild(document.createTextNode(b));
+document.getElementById('to').appendChild(a);
+//-->
+</script>
+</div>
+<hr />
+<div class=home><a href="index.html"><img src="icon/home2.gif" alt="Homeへ" /></a></div>
+</div>
+<hr />
+<!--shinobi1-->
+<script type="text/javascript" src="http://x4.shinobi.jp/ufo/039444405"></script>
+<noscript><img src="http://x4.shinobi.jp/bin/ll?039444405" border="0"></noscript>
+<!--shinobi2-->
+</body>
+</html>

@@ -1,0 +1,11 @@
+body { background-color:#f0f0f0; }
+.all-box { margin:0 auto; width:800px; border:1px solid gray; background-color:white; }
+.title { color:#001e43; font-weight:bold; font-size:200%; text-align:center; margin:15px 0px 10px 0px; }
+.bunrui-title { font-weight:bold; margin:10px 2px 2px 10px; }
+.bunrui-link { margin:5px 2px 0px 10px; }
+.bunrui-link a { color:#172d73; color:#0000ff }
+.bunrui-description { font-size:90%; margin:2px 2px 0px 15px; }
+.square { color:#89c997; }
+.home { text-align:center; margin:5px 0px; }
+a img { border-style:none; }
+.update{ color:#ff0000; font-size:80%; }
