@@ -186,7 +186,7 @@ function initialize() {
 
 	// パス
 	if (pathValue != "") {
-		var pathLayer = new google.maps.KmlLayer('https://bootselector.goraikou.com/kml/' + pathValue + '.kml?ver=132',
+		var pathLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/' + pathValue + '.kml?ver=132',
 			{
 			suppressInfoWindows: true,
 			map: map,
@@ -220,7 +220,7 @@ function initialize() {
 	}
 
 	// 山アイコン
-	var kmlLayer = new google.maps.KmlLayer('https://bootselector.goraikou.com/kml/mountain.kml?ver=332',
+	var kmlLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/mountain.kml?ver=332',
 		{
 		suppressInfoWindows: true,
 		map: map,
