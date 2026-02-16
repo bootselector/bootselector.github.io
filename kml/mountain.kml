@@ -2559,5 +2559,10 @@
 <a href="kongousan_1.html">2025.12.31</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>135.672961,34.419421,0</coordinates></Point></Placemark>
+<Placemark><name>本山</name><description>
+<![CDATA[
+<a href="shinoitomiyarenpou.html">2026.02.14</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.835515,36.689251,0</coordinates></Point></Placemark>
 </Document>
 </kml>
