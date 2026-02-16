@@ -186,7 +186,7 @@ function initialize() {
 
 	// パス
 	if (pathValue != "") {
-		var pathLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/' + pathValue + '.kml?ver=132',
+		var pathLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/' + pathValue + '.kml?ver=133',
 			{
 			suppressInfoWindows: true,
 			map: map,
