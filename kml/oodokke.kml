@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ルート</name>
+	<Style id='icon-ci-1-nodesc'>
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+		        <href>https://bootselector.github.io/icon/se.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id='line-000000-1200-nodesc'>
+		<LineStyle>
+			<color>730000FF</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+    <Placemark>
+      <name>L</name>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          139.0843674,35.9105109,0
+          139.0827366,35.9088077,0
+          139.0808912,35.9077997,0
+          139.0796896,35.9039413,0
+          139.0742823,35.9044627,0
+          139.0680166,35.9040108,0
+          139.0650984,35.9005694,0
+          139.0605065,35.8991093,0
+          139.0585324,35.9001522,0
+          139.0568587,35.9014384,0
+          139.058056,35.905278,0
+          139.0672442,35.9078345,0
+          139.0712782,35.9076259,0
+          139.0753123,35.9095724,0
+          139.0823933,35.9101633,0
+          139.0827366,35.9088077,0
+          139.0843674,35.9105109,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SE</name>
+      <styleUrl>#icon-ci-1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          139.0843674,35.9105109,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
