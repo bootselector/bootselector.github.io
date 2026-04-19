@@ -2577,5 +2577,10 @@
 <a href="oodokke.html">2026.03.22</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.058056,35.905278,0</coordinates></Point></Placemark>
+<Placemark><name>三床山</name><description>
+<![CDATA[
+<a href="mitokoyama.html">2026.04.18</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.554579,36.395951,0</coordinates></Point></Placemark>
 </Document>
 </kml>
