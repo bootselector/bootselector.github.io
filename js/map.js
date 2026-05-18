@@ -220,7 +220,7 @@ function initialize() {
 	}
 
 	// 山アイコン
-	var kmlLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/mountain.kml?ver=343',
+	var kmlLayer = new google.maps.KmlLayer('https://bootselector.github.io/kml/mountain.kml?ver=344',
 		{
 		suppressInfoWindows: true,
 		map: map,
