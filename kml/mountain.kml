@@ -2602,5 +2602,10 @@
 <a href="gifu_1.html">2026.05.06</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.950958,36.063901,0</coordinates></Point></Placemark>
+<Placemark><name>生瀬富士</name><description>
+<![CDATA[
+<a href="namasefuji.html">2026.05.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.398377,36.772007,0</coordinates></Point></Placemark>
 </Document>
 </kml>
