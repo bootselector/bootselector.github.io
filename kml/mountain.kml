@@ -2614,5 +2614,10 @@
 <a href="futamatayama.html">2026.06.28</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.967381,37.246500,0</coordinates></Point></Placemark>
+<Placemark><name>飯士山</name><description>
+<![CDATA[
+<a href="iijisan.html">2026.07.04</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.833018,36.956395,0</coordinates></Point></Placemark>
 </Document>
 </kml>
