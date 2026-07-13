@@ -2619,5 +2619,10 @@
 <a href="iijisan.html">2026.07.04</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.833018,36.956395,0</coordinates></Point></Placemark>
+<Placemark><name>小川山</name><description>
+<![CDATA[
+<a href="ogawayama.html">2026.07.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.612327,35.909491,0</coordinates></Point></Placemark>
 </Document>
 </kml>
