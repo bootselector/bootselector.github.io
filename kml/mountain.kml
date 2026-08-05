@@ -973,6 +973,7 @@
 <Placemark><name>日向山</name><description>
 <![CDATA[
 <a href="hinatayama2.html">2009.06.07</a><br />
+<a href="kurakakesawa.html">2026.08.01</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.271361,35.802361,0</coordinates></Point></Placemark>
 <Placemark><name>三国山</name><description>
@@ -2626,5 +2627,10 @@
 <a href="ogawayama.html">2026.07.11</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.612327,35.909491,0</coordinates></Point></Placemark>
+<Placemark><name>鞍掛山</name><description>
+<![CDATA[
+<a href="kurakakesawa.html">2026.08.01</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.254271,35.790978,0</coordinates></Point></Placemark>
 </Document>
 </kml>
