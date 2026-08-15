@@ -1772,6 +1772,7 @@
 <Placemark><name>木曽駒ヶ岳</name><description>
 <![CDATA[
 <a href="nagano_1.html">2015.08.09</a><br />
+<a href="chuuoualps_1.html">2026.08.07</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.804561,35.789560,0</coordinates></Point></Placemark>
 <Placemark><name>御在所岳</name><description>
@@ -2633,5 +2634,45 @@
 <a href="kurakakesawa.html">2026.08.01</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.254271,35.790978,0</coordinates></Point></Placemark>
+<Placemark><name>将棊頭山</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.829643,35.805956,0</coordinates></Point></Placemark>
+<Placemark><name>宝剣岳</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.809198,35.781430,0</coordinates></Point></Placemark>
+<Placemark><name>檜尾岳</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.07</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.813304,35.751999,0</coordinates></Point></Placemark>
+<Placemark><name>空木岳</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.817118,35.719049,0</coordinates></Point></Placemark>
+<Placemark><name>南駒ヶ岳</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.810740,35.701394,0</coordinates></Point></Placemark>
+<Placemark><name>越百山</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.08</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.803273,35.679470,0</coordinates></Point></Placemark>
+<Placemark><name>安平路山</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.09</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.774398,35.630396,0</coordinates></Point></Placemark>
+<Placemark><name>摺古木山</name><description>
+<![CDATA[
+<a href="chuuoualps_1.html">2026.08.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.737613,35.612878,0</coordinates></Point></Placemark>
 </Document>
 </kml>
