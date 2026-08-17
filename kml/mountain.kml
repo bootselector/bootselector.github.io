@@ -314,7 +314,7 @@
 <Placemark><name>白馬岳</name><description>
 <![CDATA[
 <a href="kaerazukiretto_1.html">2007.08.12</a><br />
-<a href="shiroumadake.html">2026.08.13</a><br />
+<a href="shiroumadake_1.html">2026.08.13</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.758528,36.758500,0</coordinates></Point></Placemark>
 <Placemark><name>天城山</name><description>
@@ -2674,15 +2674,14 @@
 <![CDATA[
 <a href="chuuoualps_1.html">2026.08.10</a><br />
 ]]>
-</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.737613,35.612878,0</coordinates></Point></Placemark>
 <Placemark><name>雪倉岳</name><description>
 <![CDATA[
-<a href="shiroumadake.html">2026.08.13</a><br />
+<a href="shiroumadake_1.html">2026.08.13</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.753962,36.794723,0</coordinates></Point></Placemark>
 <Placemark><name>朝日岳</name><description>
 <![CDATA[
-<a href="shiroumadake.html">2026.08.14</a><br />
+<a href="shiroumadake_1.html">2026.08.14</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>137.729873,36.826741,0</coordinates></Point></Placemark>
 </Document>
