@@ -2694,5 +2694,20 @@
 <a href="gongendouyama.html">2026.09.05</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.042653,37.269001,0</coordinates></Point></Placemark>
+<Placemark><name>白神岳</name><description>
+<![CDATA[
+<a href="aomoriiwate_1.html">2026.09.21</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.018611,40.503333,0</coordinates></Point></Placemark>
+<Placemark><name>岩木山</name><description>
+<![CDATA[
+<a href="aomoriiwate_1.html">2026.09.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.303056,40.655833,0</coordinates></Point></Placemark>
+<Placemark><name>焼石岳</name><description>
+<![CDATA[
+<a href="aomoriiwate_1.html">2026.09.23</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.828611,39.163611,0</coordinates></Point></Placemark>
 </Document>
 </kml>
