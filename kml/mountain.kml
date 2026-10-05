@@ -1152,6 +1152,7 @@
 <![CDATA[
 <a href="tanigawadake_1.html">2009.11.07</a><br />
 <a href="tanigawadake2.html">2017.08.27</a><br />
+<a href="tanigawashumyaku.html">2026.10.03</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.930139,36.837083,0</coordinates></Point></Placemark>
 <Placemark><name>大源太山</name><description>
@@ -1444,6 +1445,7 @@
 <Placemark><name>平標山</name><description>
 <![CDATA[
 <a href="tairappyouyama.html">2012.05.19</a><br />
+<a href="tanigawashumyaku.html">2026.10.03</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.821833,36.817861,0</coordinates></Point></Placemark>
 <Placemark><name>鍋嵐</name><description>
@@ -2709,5 +2711,15 @@
 <a href="aomoriiwate_1.html">2026.09.23</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>140.828611,39.163611,0</coordinates></Point></Placemark>
+<Placemark><name>万太郎山</name><description>
+<![CDATA[
+<a href="tanigawashumyaku.html">2026.10.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.879218,36.824173,0</coordinates></Point></Placemark>
+<Placemark><name>仙ノ倉山</name><description>
+<![CDATA[
+<a href="tanigawashumyaku.html">2026.10.03</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.839550,36.817496,0</coordinates></Point></Placemark>
 </Document>
 </kml>
