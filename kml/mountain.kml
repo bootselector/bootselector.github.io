@@ -2721,5 +2721,20 @@
 <a href="tanigawashumyaku.html">2026.10.03</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.839550,36.817496,0</coordinates></Point></Placemark>
+<Placemark><name>大日ヶ岳</name><description>
+<![CDATA[
+<a href="gifu2_1.html">2026.10.10</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.837738,36.001354,0</coordinates></Point></Placemark>
+<Placemark><name>白山</name><description>
+<![CDATA[
+<a href="gifu2_1.html">2026.10.11</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.771517,36.155112,0</coordinates></Point></Placemark>
+<Placemark><name>三方岩岳</name><description>
+<![CDATA[
+<a href="gifu2_1.html">2026.10.12</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>136.844459,36.258186,0</coordinates></Point></Placemark>
 </Document>
 </kml>
