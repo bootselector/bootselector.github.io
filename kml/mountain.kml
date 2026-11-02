@@ -1835,6 +1835,7 @@
 <Placemark><name>三ツ岩岳</name><description>
 <![CDATA[
 <a href="mitsuiwadake.html">2016.04.24</a><br />
+<a href="ootsu.html">2026.10.31</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.681686,36.143099,0</coordinates></Point></Placemark>
 <Placemark><name>大杉山</name><description>
@@ -2741,5 +2742,10 @@
 <a href="tsurushimakongousan.html">2026.10.17</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>139.126117,35.599121,0</coordinates></Point></Placemark>
+<Placemark><name>大津</name><description>
+<![CDATA[
+<a href="ootsu.html">2026.10.31</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.675759,36.134125,0</coordinates></Point></Placemark>
 </Document>
 </kml>
