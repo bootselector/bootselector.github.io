@@ -609,6 +609,7 @@
 <Placemark><name>八紘嶺</name><description>
 <![CDATA[
 <a href="yanbushi_1.html">2008.06.07</a><br />
+<a href="shichimenzan.html">2026.11.22</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.335639,35.326528,0</coordinates></Point></Placemark>
 <Placemark><name>山伏</name><description>
@@ -2752,5 +2753,10 @@
 <a href="misujiyama.html">2026.11.01</a><br />
 ]]>
 </description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.995369,34.804816,0</coordinates></Point></Placemark>
+<Placemark><name>七面山</name><description>
+<![CDATA[
+<a href="shichimenzan.html">2026.11.22</a><br />
+]]>
+</description><styleUrl>#mountainIcon</styleUrl><Point><coordinates>138.350584,35.370437,0</coordinates></Point></Placemark>
 </Document>
 </kml>
